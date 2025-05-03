@@ -1,14 +1,14 @@
-# Nature - Bird Species Recognition System
+# Critter and Flora - Species Recognition System
 
 ## Project Overview
 
-Nature is an advanced bird species identification and information system that uses image recognition technology to identify birds from user-uploaded images. The system provides detailed information about identified bird species, including scientific name, habitat, diet, lifespan, physical characteristics, and interesting facts.
+Critter and Flora is an advanced species identification and information system that uses image recognition technology to identify birds, insects, plants, and animals from user-uploaded images. The system provides detailed information about identified species, including scientific name, habitat, diet, lifespan, physical characteristics, and interesting facts.
 
 ## Features
 
-- **Bird Species Recognition**: Upload an image of a bird and get an accurate identification using machine learning models
-- **Comprehensive Bird Database**: Access detailed information for hundreds of bird species
-- **Educational Content**: Learn about bird habitats, behaviors, and interesting facts
+- **Multi-Species Recognition**: Upload an image of a bird, insect, plant, or animal and get an accurate identification using machine learning models
+- **Comprehensive Species Database**: Access detailed information for hundreds of species
+- **Educational Content**: Learn about habitats, behaviors, and interesting facts
 - **User-Friendly Interface**: Intuitive design for easy navigation and use
 - **Responsive Design**: Works across desktop and mobile devices
 
@@ -18,14 +18,14 @@ The application is built using:
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
 - **Database**: MySQL
-- **ML Models**: TensorFlow for bird species recognition
+- **ML Models**: TensorFlow for species recognition
 - **Authentication**: Secure user login and registration system
 
 ## Data Sources
 
-The bird information database includes comprehensive details on bird species compiled from:
-- Scientific journals and ornithological research
-- Bird watching guides and field manuals
+The species information database includes comprehensive details compiled from:
+- Scientific journals and research
+- Field guides and manuals
 - Expert-verified descriptions and measurements
 - High-quality images for reference and identification
 
@@ -42,8 +42,8 @@ The bird information database includes comprehensive details on bird species com
 
 1. Clone the repository:
 ```
-git clone https://github.com/Lokesh071/Nature.git
-cd Nature
+git clone https://github.com/Lokesh071/Critter-and-Flora.git
+cd Critter-and-Flora
 ```
 
 2. Set up a virtual environment (recommended):
@@ -57,70 +57,51 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Configure the database:
-   - Create a MySQL database
-   - Update the database configuration in the `app.py` file
-   - Run the database setup script:
-   ```
-   python db_setup.py
-   ```
+4. Create a .env file using the .env.template file
+   - Update the database configuration
+   - Add your email credentials for password reset functionality
 
-5. Start the application:
+5. Configure the database:
+   - Create a MySQL database named nature_auth
+   - Run the database setup script
+
+6. Start the application:
 ```
 python app.py
 ```
 
-6. Access the application in your browser at `http://localhost:5000`
+7. Access the application in your browser at `http://localhost:5000`
 
 ## Usage
 
 1. **Register/Login**: Create an account or log in to an existing account
-2. **Upload Image**: Upload an image of a bird for identification
+2. **Upload Image**: Upload an image for identification
 3. **View Results**: Review the identification results and detailed species information
-4. **Explore Database**: Browse the bird species database by category, habitat, or other filters
-5. **Learning Resources**: Access educational content about bird watching and ornithology
+4. **Explore Database**: Browse the species database by category, habitat, or other filters
 
 ## Project Structure
 
 ```
-Nature/
+Critter-and-Flora/
 ├── app.py                 # Main Flask application file
-├── db_setup.py            # Database setup script
 ├── requirements.txt       # Required Python packages
 ├── model/                 # ML models and data files
-│   ├── bird_model.h5      # Trained TensorFlow model
-│   ├── class_names.txt    # Bird species class names
-│   └── bird_info_converted.json  # Detailed bird information
+│   ├── model_utils.py     # Model utility functions
+│   ├── class_names.txt    # Species class names
+│   └── *_info.json        # Detailed species information
 ├── static/                # Static files (CSS, JS, images)
 │   ├── css/
 │   ├── js/
-│   └── images/
+│   └── assets/
 ├── templates/             # HTML templates
-│   ├── index.html
-│   ├── upload.html
-│   ├── results.html
-│   └── ...
 └── uploads/               # User-uploaded images for processing
 ```
 
-## Contributing
-
-Contributions to the Nature project are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature-name`)
-3. Make your changes
-4. Run tests to ensure functionality
-5. Commit your changes (`git commit -m 'Add some feature'`)
-6. Push to the branch (`git push origin feature/your-feature-name`)
-7. Create a new Pull Request
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- Bird image data sourced from reputable ornithological databases
-- Special thanks to the ornithologists and bird enthusiasts who contributed to the accuracy of our bird information database
-- The TensorFlow and machine learning communities for providing tools and resources for image recognition 
+- Species data sourced from reputable databases
+- The TensorFlow and machine learning communities for providing tools and resources for image recognition
