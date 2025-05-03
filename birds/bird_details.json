@@ -1,0 +1,23 @@
+{
+  "American Robin": {
+    "scientific_name": "Turdus migratorius",
+    "description": "A familiar songbird with a gray back, reddish-orange breast, and often seen hopping on lawns searching for earthworms.",
+    "lifespan": "Average 2 years in the wild, up to 14 years recorded.",
+    "height": "20-28 cm (8-11 in)",
+    "weight": "77 g (2.7 oz)"
+  },
+  "Blue Jay": {
+    "scientific_name": "Cyanocitta cristata",
+    "description": "A large, noisy songbird known for its bright blue, white, and black plumage and its intelligence.",
+    "lifespan": "Average 7 years in the wild, up to 26 years recorded.",
+    "height": "22-30 cm (9-12 in)",
+    "weight": "70-100 g (2.5-3.5 oz)"
+  },
+  "Northern Cardinal": {
+    "scientific_name": "Cardinalis cardinalis",
+    "description": "A striking bird where the male is bright red and the female is reddish-brown. Known for its prominent crest and cheerful song.",
+    "lifespan": "Average 3 years in the wild, up to 15 years recorded.",
+    "height": "21-23 cm (8.3-9.1 in)",
+    "weight": "42-48 g (1.5-1.7 oz)"
+  }
+} 
