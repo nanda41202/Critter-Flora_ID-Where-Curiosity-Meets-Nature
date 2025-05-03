@@ -1,0 +1,272 @@
+{
+    "cats": [
+        {
+            "species": "Persian Cat",
+            "scientific_name": "Felis catus",
+            "description": "Long-haired breed with a flat face and gentle temperament. Known for their luxurious coat, sweet personality, and calm demeanor. One of the most popular cat breeds worldwide.",
+            "lifespan": "12-16 years"
+        },
+        {
+            "species": "Siamese Cat",
+            "scientific_name": "Felis catus",
+            "description": "Distinctive breed with blue almond-shaped eyes and color-pointed coat. Known for their vocal nature, intelligence, and strong bonds with humans. Very social and demanding of attention.",
+            "lifespan": "15-20 years"
+        },
+        {
+            "species": "Egyptian Cat",
+            "scientific_name": "Felis catus",
+            "description": "Ancient breed resembling those depicted in Egyptian art. Known for their elegant appearance, graceful movements, and regal bearing. Highly intelligent and independent.",
+            "lifespan": "12-15 years"
+        },
+        {
+            "species": "Tiger Cat",
+            "scientific_name": "Felis catus",
+            "description": "Domestic cat with distinctive tiger-like stripes. Known for their active and playful nature, excellent hunting skills, and strong athletic abilities.",
+            "lifespan": "12-16 years"
+        },
+        {
+            "species": "Tabby Cat",
+            "scientific_name": "Felis catus",
+            "description": "Not a specific breed but a coat pattern. Characterized by distinctive stripes, dots, or swirling patterns. Known for their friendly, adaptable nature and good hunting skills.",
+            "lifespan": "12-18 years"
+        },
+        {
+            "species": "Maine Coon",
+            "scientific_name": "Felis catus",
+            "description": "Large, long-haired breed known for their tufted ears and bushy tail. Friendly and intelligent cats.",
+            "lifespan": "12-15 years"
+        },
+        {
+            "species": "Bengal Cat",
+            "scientific_name": "Felis catus",
+            "description": "Domestic cat with wild-looking spotted coat, known for their energetic and playful nature.",
+            "lifespan": "12-16 years"
+        }
+    ],
+    "dogs": [
+        {
+            "species": "Chihuahua",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Small dog breed, known for their loyalty and protective nature despite their size.",
+            "lifespan": "12-20 years",
+            "height": "15-23 cm (6-9 in)",
+            "weight": "1.8-2.7 kg (4-6 lb)"
+        },
+        {
+            "species": "Japanese Spaniel",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Small, elegant dog breed with a distinctive pushed-in face and gentle temperament.",
+            "lifespan": "10-12 years",
+            "height": "20-28 cm (8-11 in)",
+            "weight": "2-5 kg (4.4-11 lb)"
+        },
+        {
+            "species": "Maltese Dog",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Small breed with a long white coat, known for their affectionate and gentle nature.",
+            "lifespan": "12-15 years",
+            "height": "20-25 cm (8-10 in)",
+            "weight": "3-4 kg (6.6-8.8 lb)"
+        },
+        {
+            "species": "Golden Retriever",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Medium to large breed known for their friendly, intelligent, and devoted nature. Excellent family dogs.",
+            "lifespan": "10-12 years",
+            "height": "55-61 cm (21.5-24 in)",
+            "weight": "25-34 kg (55-75 lb)"
+        },
+        {
+            "species": "German Shepherd",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Large working dog breed known for their intelligence, loyalty, and versatility in various roles.",
+            "lifespan": "9-13 years",
+            "height": "55-65 cm (22-26 in)",
+            "weight": "22-40 kg (49-88 lb)"
+        },
+        {
+            "species": "Labrador Retriever",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Popular medium to large breed known for their friendly nature, intelligence, and excellent retrieving abilities.",
+            "lifespan": "10-12 years",
+            "height": "55-62 cm (21.5-24.5 in)",
+            "weight": "25-36 kg (55-80 lb)"
+        },
+        {
+            "species": "Poodle",
+            "scientific_name": "Canis lupus familiaris",
+            "description": "Intelligent breed known for their curly coat and excellent trainability. Available in standard, miniature, and toy sizes.",
+            "lifespan": "12-15 years",
+            "height": "Varies (Standard >38 cm)",
+            "weight": "Varies (Standard 20-32 kg)"
+        }
+    ],
+    "birds": [
+        {
+            "species": "Bald Eagle",
+            "scientific_name": "Haliaeetus leucocephalus",
+            "description": "Large bird of prey with distinctive white head and tail. National bird of the United States.",
+            "lifespan": "20-30 years in wild, up to 50 in captivity",
+            "height": "70-102 cm (28-40 in)",
+            "weight": "3-6.3 kg (6.6-14 lb)"
+        },
+        {
+            "species": "House Sparrow",
+            "scientific_name": "Passer domesticus",
+            "description": "Small, adaptable bird commonly found in urban areas. Known for their social behavior.",
+            "lifespan": "2-3 years in wild, up to 10 in captivity",
+            "height": "16 cm (6.3 in)",
+            "weight": "24-39.5 g (0.85-1.39 oz)"
+        },
+        {
+            "species": "American Robin",
+            "scientific_name": "Turdus migratorius",
+            "description": "Medium-sized songbird with reddish-orange breast. Common across North America.",
+            "lifespan": "2 years in wild, up to 14 in captivity",
+            "height": "23-28 cm (9-11 in)",
+            "weight": "77 g (2.7 oz)"
+        },
+        {
+            "species": "Blue Jay",
+            "scientific_name": "Cyanocitta cristata",
+            "description": "Colorful bird with blue, white, and black plumage. Known for their loud calls and intelligence.",
+            "lifespan": "7 years in wild, up to 18 in captivity",
+            "height": "25-30 cm (9.8-11.8 in)",
+            "weight": "70-100 g (2.5-3.5 oz)"
+        },
+        {
+            "species": "Northern Cardinal",
+            "scientific_name": "Cardinalis cardinalis",
+            "description": "Medium-sized songbird with bright red plumage in males. Common in eastern North America.",
+            "lifespan": "3 years in wild, up to 15 in captivity",
+            "height": "21-23.5 cm (8.3-9.3 in)",
+            "weight": "42-48 g (1.5-1.7 oz)"
+        },
+        {
+            "species": "Goldfinch",
+            "scientific_name": "Spinus tristis",
+            "description": "Small songbird with bright yellow plumage in males. Known for their acrobatic flight.",
+            "lifespan": "3-6 years in wild, up to 10 in captivity",
+            "height": "11-14 cm (4.3-5.5 in)",
+            "weight": "11-20 g (0.39-0.71 oz)"
+        }
+    ],
+    "butterflies": [
+        {
+            "species": "Monarch Butterfly",
+            "scientific_name": "Danaus plexippus",
+            "description": "Known for their long-distance migration and distinctive orange and black pattern.",
+            "lifespan": "2-6 weeks (summer), up to 8 months (migratory)"
+        },
+        {
+            "species": "Swallowtail Butterfly",
+            "scientific_name": "Papilio machaon",
+            "description": "Large, colorful butterflies with distinctive tail-like extensions on their hindwings.",
+            "lifespan": "2-4 weeks adult, 6-8 weeks total"
+        },
+        {
+            "species": "Painted Lady",
+            "scientific_name": "Vanessa cardui",
+            "description": "Medium-sized butterfly with orange and black patterned wings. Known for their long migrations.",
+            "lifespan": "2 weeks adult, 4-6 weeks total"
+        },
+        {
+            "species": "Red Admiral",
+            "scientific_name": "Vanessa atalanta",
+            "description": "Colorful butterfly with black wings and red bands. Common in temperate regions.",
+            "lifespan": "2-3 weeks adult, 4-6 weeks total"
+        },
+        {
+            "species": "Cabbage White",
+            "scientific_name": "Pieris rapae",
+            "description": "Small white butterfly commonly found in gardens. Larvae feed on cruciferous plants.",
+            "lifespan": "2-3 weeks adult, 3-4 weeks total"
+        }
+    ],
+    "plants": [
+        {
+            "species": "Red Poppy",
+            "scientific_name": "Papaver rhoeas",
+            "description": "Bright red wildflower with delicate petals. Symbol of remembrance.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Garden Cosmos",
+            "scientific_name": "Cosmos bipinnatus",
+            "description": "Popular garden flower with daisy-like blooms. Attracts butterflies and pollinators.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "English Daisy",
+            "scientific_name": "Bellis perennis",
+            "description": "Small herb with white and yellow flowers. Used in traditional medicine.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Lavender",
+            "scientific_name": "Lavandula angustifolia",
+            "description": "Fragrant herb with purple flowers. Used in aromatherapy and cooking.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Rosemary",
+            "scientific_name": "Salvia rosmarinus",
+            "description": "Aromatic herb with needle-like leaves. Used in cooking and traditional medicine.",
+            "lifespan": "Perennial (10-15 years)"
+        },
+        {
+            "species": "Mint",
+            "scientific_name": "Mentha spp.",
+            "description": "Aromatic herb with spreading growth habit. Used in cooking and herbal teas.",
+            "lifespan": "Perennial (5-10 years)"
+        },
+        {
+            "species": "Rose",
+            "scientific_name": "Rosa spp.",
+            "description": "Classic garden flower with fragrant blooms. Available in many colors and varieties.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Tulip",
+            "scientific_name": "Tulipa spp.",
+            "description": "Spring-blooming bulb with cup-shaped flowers. Popular in gardens and floral arrangements.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Lily",
+            "scientific_name": "Lilium spp.",
+            "description": "Elegant flowers with large, showy blooms. Popular in gardens and as cut flowers.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Sunflower",
+            "scientific_name": "Helianthus annuus",
+            "description": "Large, bright yellow flowers that follow the sun. Known for their edible seeds.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Daffodil",
+            "scientific_name": "Narcissus spp.",
+            "description": "Spring-blooming bulb with trumpet-shaped flowers. Symbol of new beginnings.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Orchid",
+            "scientific_name": "Orchidaceae",
+            "description": "Exotic flowers with intricate shapes and patterns. Popular as houseplants.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Carnation",
+            "scientific_name": "Dianthus caryophyllus",
+            "description": "Popular cut flower with ruffled petals. Available in many colors.",
+            "lifespan": "N/A"
+        },
+        {
+            "species": "Hibiscus",
+            "scientific_name": "Hibiscus rosa-sinensis",
+            "description": "Tropical flower with large, showy blooms. Used in teas and traditional medicine.",
+            "lifespan": "N/A"
+        }
+    ]
+} 

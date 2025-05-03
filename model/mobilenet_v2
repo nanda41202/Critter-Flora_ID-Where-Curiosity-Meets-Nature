@@ -1,0 +1,5 @@
+mkdir -p dog_breed_predictor/model
+python3 -c "
+import tensorflow_hub as hub
+hub.load('https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4').export('dog_breed_predictor/model/mobilenet_v2')
+"

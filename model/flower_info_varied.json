@@ -1,0 +1,567 @@
+{
+  "pink primrose": {
+    "scientific_name": "Pink_Primrose spp.",
+    "origin": "Pacific Islands",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "hard-leaved pocket orchid": {
+    "scientific_name": "Hard-Leaved_Pocket_Orchid spp.",
+    "origin": "Southeast Asia",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "canterbury bells": {
+    "scientific_name": "Canterbury_Bells spp.",
+    "origin": "India",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "sweet pea": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Climbing annual with fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements due to their sweet fragrance and long vase life."
+  },
+  "sweet-pea": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Climbing annual with fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements due to their sweet fragrance and long vase life."
+  },
+  "lathyrus": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Also known as sweet pea, this climbing annual has fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements."
+  },
+  "english marigold": {
+    "scientific_name": "English_Marigold spp.",
+    "origin": "Central America",
+    "features": "Loved by gardeners for its low maintenance and rich color."
+  },
+  "tiger lily": {
+    "scientific_name": "Tiger_Lily spp.",
+    "origin": "Eastern United States",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "moon orchid": {
+    "scientific_name": "Moon_Orchid spp.",
+    "origin": "Central America",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "bird of paradise": {
+    "scientific_name": "Bird_Of_Paradise spp.",
+    "origin": "Eastern United States",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "monkshood": {
+    "scientific_name": "Monkshood spp.",
+    "origin": "Central America",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "globe thistle": {
+    "scientific_name": "Globe_Thistle spp.",
+    "origin": "Eastern United States",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "snapdragon": {
+    "scientific_name": "Antirrhinum majus",
+    "origin": "Mediterranean region",
+    "features": "Short-lived perennial with colorful blooms that resemble dragon faces when squeezed. Available in various heights from dwarf to tall varieties, popular in garden borders and containers."
+  },
+  "colt's foot": {
+    "scientific_name": "Colt'S_Foot spp.",
+    "origin": "Pacific Islands",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "king protea": {
+    "scientific_name": "King_Protea spp.",
+    "origin": "Australia",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "spear thistle": {
+    "scientific_name": "Spear_Thistle spp.",
+    "origin": "Pacific Islands",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "yellow iris": {
+    "scientific_name": "Yellow_Iris spp.",
+    "origin": "Southern Europe",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "globe-flower": {
+    "scientific_name": "Globe-Flower spp.",
+    "origin": "Southeast Asia",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "purple coneflower": {
+    "scientific_name": "Purple_Coneflower spp.",
+    "origin": "India",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "peruvian lily": {
+    "scientific_name": "Peruvian_Lily spp.",
+    "origin": "South America",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "balloon flower": {
+    "scientific_name": "Balloon_Flower spp.",
+    "origin": "Central America",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "giant white arum lily": {
+    "scientific_name": "Giant_White_Arum_Lily spp.",
+    "origin": "Australia",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "fire lily": {
+    "scientific_name": "Fire_Lily spp.",
+    "origin": "South America",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "pincushion flower": {
+    "scientific_name": "Pincushion_Flower spp.",
+    "origin": "Pacific Islands",
+    "features": "Loved by gardeners for its low maintenance and rich color."
+  },
+  "fritillary": {
+    "scientific_name": "Fritillary spp.",
+    "origin": "India",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "red ginger": {
+    "scientific_name": "Red_Ginger spp.",
+    "origin": "Australia",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "grape hyacinth": {
+    "scientific_name": "Grape_Hyacinth spp.",
+    "origin": "Australia",
+    "features": "Loved by gardeners for its low maintenance and rich color."
+  },
+  "corn poppy": {
+    "scientific_name": "Corn_Poppy spp.",
+    "origin": "Central America",
+    "features": "Symbolizes beauty and grace in various cultures."
+  },
+  "prince of wales feathers": {
+    "scientific_name": "Prince_Of_Wales_Feathers spp.",
+    "origin": "Southeast Asia",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "stemless gentian": {
+    "scientific_name": "Stemless_Gentian spp.",
+    "origin": "South America",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "artichoke": {
+    "scientific_name": "Artichoke spp.",
+    "origin": "Northern Africa",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "sweet william": {
+    "scientific_name": "Sweet_William spp.",
+    "origin": "India",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "carnation": {
+    "scientific_name": "Dianthus caryophyllus",
+    "origin": "Mediterranean region",
+    "features": "Herbaceous perennial plant with fragrant, ruffled flowers in various colors. Long-lasting as cut flowers, symbolizing fascination and distinction. Often used in boutonnieres and corsages."
+  },
+  "garden phlox": {
+    "scientific_name": "Garden_Phlox spp.",
+    "origin": "Northern Africa",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "love in the mist": {
+    "scientific_name": "Love_In_The_Mist spp.",
+    "origin": "Southern Europe",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "mexican aster": {
+    "scientific_name": "Mexican_Aster spp.",
+    "origin": "Tropical Asia",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "alpine sea holly": {
+    "scientific_name": "Alpine_Sea_Holly spp.",
+    "origin": "Australia",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "ruby-lipped cattleya": {
+    "scientific_name": "Ruby-Lipped_Cattleya spp.",
+    "origin": "Sub-Saharan Africa",
+    "features": "Loved by gardeners for its low maintenance and rich color."
+  },
+  "cape flower": {
+    "scientific_name": "Cape_Flower spp.",
+    "origin": "Northern Africa",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "great masterwort": {
+    "scientific_name": "Great_Masterwort spp.",
+    "origin": "Tropical Asia",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "siam tulip": {
+    "scientific_name": "Siam_Tulip spp.",
+    "origin": "Mediterranean region",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "lenten rose": {
+    "scientific_name": "Lenten_Rose spp.",
+    "origin": "Southeast Asia",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "barbeton daisy": {
+    "scientific_name": "Barbeton_Daisy spp.",
+    "origin": "Southeast Asia",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "daffodil": {
+    "scientific_name": "Narcissus pseudonarcissus",
+    "origin": "Europe and North Africa",
+    "features": "Spring-flowering bulb with bright yellow trumpet-shaped corona surrounded by a ring of petals. Symbol of rebirth and new beginnings, often one of the first flowers to bloom in spring."
+  },
+  "sword lily": {
+    "scientific_name": "Sword_Lily spp.",
+    "origin": "Southern Europe",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "poinsettia": {
+    "scientific_name": "Euphorbia pulcherrima",
+    "origin": "Mexico",
+    "features": "Bright red bracts, widely used as Christmas decoration."
+  },
+  "bolero deep blue": {
+    "scientific_name": "Bolero_Deep_Blue spp.",
+    "origin": "Central America",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "wallflower": {
+    "scientific_name": "Wallflower spp.",
+    "origin": "India",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "marigold": {
+    "scientific_name": "Tagetes spp.",
+    "origin": "Mexico and Central America",
+    "features": "Annual plant with dense, aromatic foliage and bright orange or yellow blooms. Commonly used as companion plants in vegetable gardens to repel pests. Important in Mexican Day of the Dead celebrations."
+  },
+  "buttercup": {
+    "scientific_name": "Buttercup spp.",
+    "origin": "China",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "oxeye daisy": {
+    "scientific_name": "Oxeye_Daisy spp.",
+    "origin": "Mediterranean region",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "common dandelion": {
+    "scientific_name": "Common_Dandelion spp.",
+    "origin": "India",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "petunia": {
+    "scientific_name": "Petunia",
+    "origin": "South America",
+    "features": "Colorful funnel-shaped flowers, used in beds and hanging baskets."
+  },
+  "wild pansy": {
+    "scientific_name": "Wild_Pansy spp.",
+    "origin": "South America",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "primula": {
+    "scientific_name": "Primula spp.",
+    "origin": "Southern Europe",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "sunflower": {
+    "scientific_name": "Helianthus annuus",
+    "origin": "North America",
+    "features": "Tall annual plant with large yellow flower heads that track the sun. Used for seeds, oil production, and ornamental purposes. Symbol of happiness and adoration."
+  },
+  "pelargonium": {
+    "scientific_name": "Pelargonium spp.",
+    "origin": "India",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "bishop of llandaff": {
+    "scientific_name": "Bishop_Of_Llandaff spp.",
+    "origin": "Central America",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "gaura": {
+    "scientific_name": "Gaura spp.",
+    "origin": "Pacific Islands",
+    "features": "Symbolizes beauty and grace in various cultures."
+  },
+  "geranium": {
+    "scientific_name": "Geranium spp.",
+    "origin": "India",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "orange dahlia": {
+    "scientific_name": "Orange_Dahlia spp.",
+    "origin": "Tropical Asia",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "pink-yellow dahlia?": {
+    "scientific_name": "Pink-Yellow_Dahlia? spp.",
+    "origin": "South America",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "cautleya spicata": {
+    "scientific_name": "Cautleya_Spicata spp.",
+    "origin": "Pacific Islands",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "japanese anemone": {
+    "scientific_name": "Japanese_Anemone spp.",
+    "origin": "Eastern United States",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "black-eyed susan": {
+    "scientific_name": "Black-Eyed_Susan spp.",
+    "origin": "Sub-Saharan Africa",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "silverbush": {
+    "scientific_name": "Silverbush spp.",
+    "origin": "China",
+    "features": "Loved by gardeners for its low maintenance and rich color."
+  },
+  "californian poppy": {
+    "scientific_name": "Californian_Poppy spp.",
+    "origin": "Eastern United States",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "osteospermum": {
+    "scientific_name": "Osteospermum spp.",
+    "origin": "Southern Europe",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "spring crocus": {
+    "scientific_name": "Spring_Crocus spp.",
+    "origin": "Eastern United States",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "bearded iris": {
+    "scientific_name": "Bearded_Iris spp.",
+    "origin": "Northern Africa",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "windflower": {
+    "scientific_name": "Windflower spp.",
+    "origin": "South America",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "tree poppy": {
+    "scientific_name": "Tree_Poppy spp.",
+    "origin": "Northern Africa",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "gazania": {
+    "scientific_name": "Gazania spp.",
+    "origin": "Sub-Saharan Africa",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "azalea": {
+    "scientific_name": "Rhododendron spp.",
+    "origin": "Asia, Europe, North America",
+    "features": "Colorful spring blooms, symbol of femininity and softness."
+  },
+  "water lily": {
+    "scientific_name": "Nymphaea spp.",
+    "origin": "Temperate and tropical regions worldwide",
+    "features": "Aquatic flowering plants with round leaves that float on water's surface. Flowers appear to float and come in various colors. Featured in many of Monet's famous paintings, symbolizing peace and tranquility."
+  },
+  "rose": {
+    "scientific_name": "Rosa spp.",
+    "origin": "Various regions across Asia, Europe, North America and Africa",
+    "features": "Woody perennial flowering plant known for fragrant blooms with layered petals. Classic symbol of love and beauty, with numerous cultivars offering wide variety of colors and growth habits."
+  },
+  "thorn apple": {
+    "scientific_name": "Thorn_Apple spp.",
+    "origin": "China",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "morning glory": {
+    "scientific_name": "Ipomoea",
+    "origin": "Tropical America",
+    "features": "Heart-shaped leaves, trumpet-shaped flowers, blooms early in day."
+  },
+  "passion flower": {
+    "scientific_name": "Passion_Flower spp.",
+    "origin": "Sub-Saharan Africa",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "lotus": {
+    "scientific_name": "Nelumbo nucifera",
+    "origin": "Asia",
+    "features": "Aquatic flower, sacred in many cultures, symbolizes purity and enlightenment."
+  },
+  "toad lily": {
+    "scientific_name": "Toad_Lily spp.",
+    "origin": "Southeast Asia",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "anthurium": {
+    "scientific_name": "Anthurium spp.",
+    "origin": "Pacific Islands",
+    "features": "Symbolizes beauty and grace in various cultures."
+  },
+  "frangipani": {
+    "scientific_name": "Frangipani spp.",
+    "origin": "Southern Europe",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "clematis": {
+    "scientific_name": "Clematis spp.",
+    "origin": "South America",
+    "features": "A perennial flower valued for its resilience and bloom cycle."
+  },
+  "hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "origin": "East Asia",
+    "features": "Tropical evergreen shrub with large, showy trumpet-shaped flowers that typically last only a day. Used in traditional medicine and tea. The flowers can be red, pink, orange, yellow, or white."
+  },
+  "columbine": {
+    "scientific_name": "Columbine spp.",
+    "origin": "South America",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "desert-rose": {
+    "scientific_name": "Desert-Rose spp.",
+    "origin": "Australia",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "tree mallow": {
+    "scientific_name": "Tree_Mallow spp.",
+    "origin": "Tropical Asia",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "magnolia": {
+    "scientific_name": "Magnolia spp.",
+    "origin": "South America",
+    "features": "A flowering plant known for its unique appearance."
+  },
+  "cyclamen": {
+    "scientific_name": "Cyclamen spp.",
+    "origin": "South America",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "watercress": {
+    "scientific_name": "Watercress spp.",
+    "origin": "Australia",
+    "features": "Grown for its ornamental value and appealing shape."
+  },
+  "canna lily": {
+    "scientific_name": "Canna_Lily spp.",
+    "origin": "Southeast Asia",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "hippeastrum": {
+    "scientific_name": "Hippeastrum spp.",
+    "origin": "India",
+    "features": "Often used for decorative purposes due to its bright petals."
+  },
+  "bee balm": {
+    "scientific_name": "Bee_Balm spp.",
+    "origin": "Mediterranean region",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "ball moss": {
+    "scientific_name": "Ball_Moss spp.",
+    "origin": "Australia",
+    "features": "Symbolizes beauty and grace in various cultures."
+  },
+  "foxglove": {
+    "scientific_name": "Foxglove spp.",
+    "origin": "Tropical Asia",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "bougainvillea": {
+    "scientific_name": "Bougainvillea spp.",
+    "origin": "China",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "camellia": {
+    "scientific_name": "Camellia japonica",
+    "origin": "East Asia",
+    "features": "Glossy evergreen leaves, popular ornamental flower in gardens."
+  },
+  "mallow": {
+    "scientific_name": "Mallow spp.",
+    "origin": "Central America",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "mexican petunia": {
+    "scientific_name": "Mexican_Petunia spp.",
+    "origin": "South America",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "bromelia": {
+    "scientific_name": "Bromelia spp.",
+    "origin": "Tropical Asia",
+    "features": "Commonly found in gardens, admired for its vibrant colors."
+  },
+  "blanket flower": {
+    "scientific_name": "Blanket_Flower spp.",
+    "origin": "Central America",
+    "features": "Popular in floral arrangements and garden landscapes."
+  },
+  "trumpet creeper": {
+    "scientific_name": "Trumpet_Creeper spp.",
+    "origin": "Southern Europe",
+    "features": "Easily recognizable by its distinct shape and coloration."
+  },
+  "blackberry lily": {
+    "scientific_name": "Blackberry_Lily spp.",
+    "origin": "Eastern United States",
+    "features": "Blooms in the spring and summer seasons, attracting pollinators."
+  },
+  "orchid": {
+    "scientific_name": "Orchidaceae family",
+    "origin": "Every continent except Antarctica",
+    "features": "One of the largest flowering plant families with over 28,000 species. Known for exotic, intricate blooms that can last for months. Many varieties are epiphytic, growing on trees rather than in soil."
+  },
+  "lily": {
+    "scientific_name": "Lilium spp.",
+    "origin": "Northern Hemisphere in Asia, Europe, and North America",
+    "features": "Perennial flowering plants with large, prominent flowers, often fragrant. Many varieties including Easter lily, tiger lily, and Asiatic lily. Symbolize purity and rebirth."
+  },
+  "lily of the valley": {
+    "scientific_name": "Convallaria majalis",
+    "origin": "Northern Hemisphere in Europe and Asia",
+    "features": "Woodland flowering plant with sweetly scented, bell-shaped white flowers on stems. Despite its beauty, the plant is highly poisonous. Often used in bridal bouquets and represents sweetness and return of happiness."
+  },
+  "lotus flower": {
+    "scientific_name": "Nelumbo nucifera",
+    "origin": "Asia and Australia",
+    "features": "Aquatic perennial plant with beautiful flowers that emerge from muddy waters. Sacred in many Eastern religions, symbolizing purity, spiritual awakening, and rebirth. Flowers open in the morning and close at night."
+  },
+  "tulip": {
+    "scientific_name": "Tulipa spp.",
+    "origin": "Central Asia, Turkey and Iran",
+    "features": "Spring-blooming bulbous plant with cup-shaped colorful flowers. Associated with Netherlands but originated in Central Asia. Available in nearly every color except true blue."
+  },
+  "sweet pea, pink": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Climbing annual with fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements due to their sweet fragrance and long vase life."
+  },
+  "pink sweet pea": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Climbing annual with fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements due to their sweet fragrance and long vase life."
+  },
+  "purple sweet pea": {
+    "scientific_name": "Lathyrus odoratus",
+    "origin": "Southern Italy and Sicily",
+    "features": "Climbing annual with fragrant, colorful flowers in shades of pink, purple, blue, and white. Sweet peas have delicate, ruffled blooms and tendrils that help them climb. Popular in cottage gardens and for cut flower arrangements due to their sweet fragrance and long vase life."
+  },
+  "everlasting sweet pea": {
+    "scientific_name": "Lathyrus latifolius",
+    "origin": "Southern Europe",
+    "features": "Perennial climbing vine with pink, purple, or white flowers. Unlike the annual sweet pea, it has no fragrance but is hardier and comes back year after year. Its tendrils help it climb to heights of 6-9 feet on trellises, fences, or other supports."
+  }
+}

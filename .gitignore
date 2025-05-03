@@ -1,0 +1,52 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Flask instance folder
+instance/
+
+# Database
+*.db
+*.sqlite3
+
+# Model files (can be large)
+*.h5
+*.pb
+*.tflite
+
+# Uploaded and temporary files
+uploads/*
+!uploads/.gitkeep
+temp/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log 

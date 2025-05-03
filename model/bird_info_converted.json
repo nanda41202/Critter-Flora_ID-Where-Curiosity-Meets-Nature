@@ -1,0 +1,1572 @@
+{
+    "Black_footed_Albatross": {
+        "Scientific Name": "Phoebastria nigripes",
+        "Habitat": "Open ocean and rocky islands",
+        "Diet": "Fish, squid, crustaceans",
+        "Lifespan": "12-40 years",
+        "Weight": "2.6-4.3 kg",
+        "Height": "68-74 cm",
+        "Wingspan": "190-220 cm",
+        "Interesting Fact": "Black-footed Albatrosses can travel over 2,000 miles in search of food and can drink seawater, expelling salt through specialized nasal glands.",
+        "Description": "The Black-footed Albatross is a large seabird with dark brown to black plumage, a distinctive tube-like structure on top of its bill, and pale markings around the base of the bill. Its long, narrow wings are adapted for soaring long distances across the ocean using dynamic soaring techniques."
+    },
+    "Laysan_Albatross": {
+        "Scientific Name": "Phoebastria immutabilis",
+        "Habitat": "Open ocean and nesting on tropical islands",
+        "Diet": "Squid, fish eggs, fish, crustaceans",
+        "Lifespan": "12-40 years",
+        "Weight": "2.4-4.1 kg",
+        "Height": "79-81 cm",
+        "Wingspan": "195-203 cm",
+        "Interesting Fact": "Laysan Albatrosses are known for their elaborate courtship dances that include more than a dozen ritualized movements, and they mate for life forming strong pair bonds.",
+        "Description": "The Laysan Albatross has predominantly white plumage with dark gray-brown upper wings and back. They have a pinkish bill with a darker tip, black feet, and distinctive black eye patches. These birds are famous for their intricate mating dances and are capable of sleeping while flying over the ocean."
+    },
+    "Sooty_Albatross": {
+        "Scientific Name": "Phoebetria fusca",
+        "Habitat": "Open ocean of southern hemisphere",
+        "Diet": "Squid, fish, crustaceans, carrion",
+        "Lifespan": "12-45 years",
+        "Weight": "2.1-3.4 kg",
+        "Height": "84-89 cm",
+        "Wingspan": "200-230 cm",
+        "Interesting Fact": "The Sooty Albatross has a haunting, eerie call that earned them the nickname 'ghost birds' among early sailors.",
+        "Description": "The Sooty Albatross has uniform dark brown to sooty gray plumage with a pale crescent behind the eye. It features a distinctive yellow sulcus (groove) along the lower mandible of its dark bill. Their flight is characterized by elegant, steep banking turns that distinguish them from other albatross species."
+    },
+    "Groove_billed_Ani": {
+        "Scientific Name": "Crotophaga sulcirostris",
+        "Habitat": "Open woodland, scrub, farmland",
+        "Diet": "Insects, small vertebrates, fruits, seeds",
+        "Lifespan": "8-10 years",
+        "Weight": "70-90 g",
+        "Height": "30-35 cm",
+        "Wingspan": "38-43 cm",
+        "Interesting Fact": "Groove-billed Anis live in social groups where multiple females lay eggs in a communal nest, and all group members help raise the young.",
+        "Description": "The Groove-billed Ani is a relatively large, black bird with a long tail and a distinctive high, arched bill that has visible grooves or ridges. Their glossy black plumage may appear iridescent in bright light, and they have a slightly awkward flight pattern with rounded wings. These social birds are often seen in small groups."
+    },
+    "Crested_Auklet": {
+        "Scientific Name": "Aethia cristatella",
+        "Habitat": "Rocky shores and open ocean",
+        "Diet": "Plankton, small fish, marine invertebrates",
+        "Lifespan": "9-12 years",
+        "Weight": "260-297 g",
+        "Height": "18-20 cm",
+        "Wingspan": "34-36 cm",
+        "Interesting Fact": "Crested Auklets emit a citrus-like scent during breeding season that may help them attract mates and recognize each other.",
+        "Description": "The Crested Auklet is a small, plump seabird with smoky gray plumage, a bright orange bill, and a distinctive forward-curving crest of black feathers on its forehead. They have white eyes with small white plumes extending from them, giving them a comical appearance. These birds are highly social, nesting in large colonies on rocky cliffs."
+    },
+    "Least_Auklet": {
+        "Scientific Name": "Aethia pusilla",
+        "Habitat": "Coastal waters and rocky islands",
+        "Diet": "Zooplankton, small crustaceans",
+        "Lifespan": "5-12 years",
+        "Weight": "85-100 g",
+        "Height": "14-15 cm",
+        "Wingspan": "30-33 cm",
+        "Interesting Fact": "The Least Auklet is the smallest of all auks and one of the most abundant seabirds in North America, with a population of over 9 million birds.",
+        "Description": "The Least Auklet is a tiny, chunky seabird with a mostly dark gray body, white belly, and short wings. They have a small, stubby red-orange bill, white eyebrows, and sometimes white plumes on the face. During breeding season, their bill becomes brighter and develops a small ornamental knob at the base."
+    },
+    "Parakeet_Auklet": {
+        "Scientific Name": "Aethia psittacula",
+        "Habitat": "Open ocean and rocky coastlines",
+        "Diet": "Small fish, crustaceans, marine invertebrates",
+        "Lifespan": "8-13 years",
+        "Weight": "250-330 g",
+        "Height": "23-25 cm",
+        "Wingspan": "42-46 cm",
+        "Interesting Fact": "The unique upturned bill of the Parakeet Auklet is specialized for capturing prey underwater and may be used to pry invertebrates from rocky surfaces.",
+        "Description": "The Parakeet Auklet has dark gray upperparts, white underparts, and a distinctive upturned red-orange bill that resembles a parrot's beak (hence the name). They have a small white plume behind the eye and a rounded head profile. They are excellent divers, using their wings to propel themselves underwater in pursuit of prey."
+    },
+    "Rhinoceros_Auklet": {
+        "Scientific Name": "Cerorhinca monocerata",
+        "Habitat": "Coastal waters and forested islands",
+        "Diet": "Small fish, squid, crustaceans",
+        "Lifespan": "12-18 years",
+        "Weight": "490-580 g",
+        "Height": "35-40 cm",
+        "Wingspan": "55-60 cm",
+        "Interesting Fact": "During breeding season, the Rhinoceros Auklet grows a distinctive horn-like projection at the base of its bill, resembling a rhinoceros horn.",
+        "Description": "The Rhinoceros Auklet is a medium-sized seabird with dark gray-brown upperparts and paler underparts. Its most distinctive feature is the vertical horn-like growth at the base of its bill during breeding season. They also develop white plumes on their face. These nocturnal birds nest in burrows and are excellent divers, using their wings to propel themselves underwater."
+    },
+    "Brewer_Blackbird": {
+        "Scientific Name": "Scientificus birdus 009",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 009 is known for its unique call and migration behavior."
+    },
+    "Red_winged_Blackbird": {
+        "Scientific Name": "Scientificus birdus 010",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 010 is known for its unique call and migration behavior."
+    },
+    "Rusty_Blackbird": {
+        "Scientific Name": "Scientificus birdus 011",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-11 years",
+        "Interesting Fact": "This bird species number 011 is known for its unique call and migration behavior."
+    },
+    "Yellow_headed_Blackbird": {
+        "Scientific Name": "Scientificus birdus 012",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-12 years",
+        "Interesting Fact": "This bird species number 012 is known for its unique call and migration behavior."
+    },
+    "Bobolink": {
+        "Scientific Name": "Scientificus birdus 013",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-13 years",
+        "Interesting Fact": "This bird species number 013 is known for its unique call and migration behavior."
+    },
+    "Indigo_Bunting": {
+        "Scientific Name": "Scientificus birdus 014",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-14 years",
+        "Interesting Fact": "This bird species number 014 is known for its unique call and migration behavior."
+    },
+    "Lazuli_Bunting": {
+        "Scientific Name": "Scientificus birdus 015",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-10 years",
+        "Interesting Fact": "This bird species number 015 is known for its unique call and migration behavior."
+    },
+    "Painted_Bunting": {
+        "Scientific Name": "Passerina ciris",
+        "Habitat": "Brushy areas, thickets, and scrub forest",
+        "Diet": "Seeds, insects, and berries",
+        "Lifespan": "8-10 years",
+        "Weight": "13-19 g",
+        "Height": "12-14 cm",
+        "Wingspan": "20-23 cm",
+        "Description": "The Painted Bunting is one of North America's most colorful birds. Males have a bright blue head, red underparts, and green back. Females and juveniles are bright green. They are shy birds that often stay hidden in dense brush.",
+        "Interesting Fact": "Despite their brilliant colors, Painted Buntings can be difficult to spot as they often stay in dense cover.",
+        "Conservation Status": "Near Threatened",
+        "Nesting": "Cup-shaped nests built in shrubs and low trees",
+        "Behavior": "Territorial during breeding season and known for elaborate courtship displays",
+        "Migration": "Migrates to Mexico, Central America, and the Caribbean in winter"
+    },
+    "Cardinal": {
+        "Scientific Name": "Cardinalis cardinalis",
+        "Habitat": "Gardens, shrublands, forest edges, and suburban areas",
+        "Diet": "Seeds, fruits, insects, and berries",
+        "Lifespan": "3-15 years in the wild",
+        "Weight": "42-48 g (1.5-1.7 oz)",
+        "Height": "21-23 cm (8.3-9.1 in)",
+        "Wingspan": "25-31 cm (9.8-12.2 in)",
+        "Description": "The Northern Cardinal is a distinctive medium-sized songbird with a prominent crest. Males are bright red all over with a black face mask and reddish bill. Females are pale brown or olive-brown with reddish wings, tail, and crest; they have the same black face and red-orange bill as males.",
+        "Interesting Fact": "Cardinals do not migrate and don't molt into a dull plumage, so the bright red males provide a splash of color at bird feeders even in winter. Both males and females sing, which is unusual among songbirds."
+    },
+    "Spotted_Catbird": {
+        "Scientific Name": "Scientificus birdus 018",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-13 years",
+        "Interesting Fact": "This bird species number 018 is known for its unique call and migration behavior."
+    },
+    "Gray_Catbird": {
+        "Scientific Name": "Scientificus birdus 019",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-14 years",
+        "Interesting Fact": "This bird species number 019 is known for its unique call and migration behavior."
+    },
+    "Yellow_breasted_Chat": {
+        "Scientific Name": "Scientificus birdus 020",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-10 years",
+        "Interesting Fact": "This bird species number 020 is known for its unique call and migration behavior."
+    },
+    "Eastern_Towhee": {
+        "Scientific Name": "Scientificus birdus 021",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-11 years",
+        "Interesting Fact": "This bird species number 021 is known for its unique call and migration behavior."
+    },
+    "Chuck_will_Widow": {
+        "Scientific Name": "Scientificus birdus 022",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-12 years",
+        "Interesting Fact": "This bird species number 022 is known for its unique call and migration behavior."
+    },
+    "Brandt_Cormorant": {
+        "Scientific Name": "Phalacrocorax penicillatus",
+        "Habitat": "Rocky coastal areas and offshore islands",
+        "Diet": "Fish, especially schooling species",
+        "Lifespan": "15-18 years",
+        "Weight": "1.8-2.5 kg",
+        "Height": "76-84 cm",
+        "Wingspan": "120-132 cm",
+        "Interesting Fact": "During breeding season, Brandt's Cormorants develop iridescent blue throat patches and white plumes on their neck and back.",
+        "Description": "The Brandt's Cormorant is a large, dark seabird with a slender body and long neck. They have glossy blue-black plumage with a bronze-green sheen, a yellow-orange throat pouch, and a hooked bill. Like other cormorants, they lack waterproofing on their feathers and are often seen holding their wings out to dry after diving. They nest in colonies on rocky cliffs and islands."
+    },
+    "Red_faced_Cormorant": {
+        "Scientific Name": "Phalacrocorax urile",
+        "Habitat": "Coastal rocky areas of North Pacific",
+        "Diet": "Fish, marine invertebrates",
+        "Lifespan": "12-18 years",
+        "Weight": "1.8-2.4 kg",
+        "Height": "76-81 cm",
+        "Wingspan": "110-125 cm",
+        "Interesting Fact": "Red-faced Cormorants have bright red facial skin that becomes even more vivid during breeding season to attract mates.",
+        "Description": "The Red-faced Cormorant has dark, iridescent green-black plumage, a distinctive bright red face with blue eye-ring, and white flank patches during breeding season. They also develop white plumes on the neck and flanks. Like other cormorants, they have a slender, hooked bill, long neck, and are excellent divers that propel themselves underwater with their feet."
+    },
+    "Pelagic_Cormorant": {
+        "Scientific Name": "Phalacrocorax pelagicus",
+        "Habitat": "Rocky coastlines and offshore islands",
+        "Diet": "Fish, marine invertebrates",
+        "Lifespan": "12-17 years",
+        "Weight": "1.2-2.1 kg",
+        "Height": "68-78 cm",
+        "Wingspan": "90-105 cm",
+        "Interesting Fact": "The Pelagic Cormorant is one of the smallest cormorants and can dive to depths of over 100 feet in search of food.",
+        "Description": "The Pelagic Cormorant is a slender, long-necked seabird with glossy black plumage that shows a purple-green iridescence. During breeding season, they develop white flank patches and white plumes on the neck and back. They have a thin, hooked bill and relatively short wings. These birds nest on narrow cliff ledges, often in small, loose colonies."
+    },
+    "Bronzed_Cowbird": {
+        "Scientific Name": "Molothrus aeneus",
+        "Habitat": "Open woodlands, farms, ranchlands",
+        "Diet": "Seeds, insects",
+        "Lifespan": "6-8 years",
+        "Weight": "60-80 g",
+        "Height": "20-22 cm",
+        "Wingspan": "30-35 cm",
+        "Interesting Fact": "Like other cowbirds, the Bronzed Cowbird is a brood parasite, laying its eggs in the nests of other bird species and letting host parents raise their young.",
+        "Description": "The Bronzed Cowbird is a medium-sized blackbird with glossy bronze-black plumage that shows iridescent sheen in sunlight. Males have a distinctive ruff of elongated neck feathers that they can raise during courtship displays, and bright red eyes. Females are slightly smaller with duller plumage. These birds are often seen in small flocks in open areas."
+    },
+    "Shiny_Cowbird": {
+        "Scientific Name": "Scientificus birdus 027",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-12 years",
+        "Interesting Fact": "This bird species number 027 is known for its unique call and migration behavior."
+    },
+    "Brown_Creeper": {
+        "Scientific Name": "Scientificus birdus 028",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-13 years",
+        "Interesting Fact": "This bird species number 028 is known for its unique call and migration behavior."
+    },
+    "American_Crow": {
+        "Scientific Name": "Scientificus birdus 029",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-14 years",
+        "Interesting Fact": "This bird species number 029 is known for its unique call and migration behavior."
+    },
+    "Fish_Crow": {
+        "Scientific Name": "Scientificus birdus 030",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-10 years",
+        "Interesting Fact": "This bird species number 030 is known for its unique call and migration behavior."
+    },
+    "Black_billed_Cuckoo": {
+        "Scientific Name": "Coccyzus erythropthalmus",
+        "Habitat": "Deciduous and mixed woodlands, thickets",
+        "Diet": "Caterpillars (especially tent caterpillars), insects, berries",
+        "Lifespan": "6-8 years",
+        "Weight": "35-50 g",
+        "Height": "28-32 cm",
+        "Wingspan": "38-43 cm",
+        "Interesting Fact": "Black-billed Cuckoos can hold dozens of large caterpillars in their stomachs at once, whose spines become embedded in the stomach lining. Periodically, they shed this lining to remove the spines.",
+        "Description": "The Black-billed Cuckoo is a slim bird with brown upperparts, white underparts, and a long, graduated tail with subtle white spots visible from below. Unlike the Yellow-billed Cuckoo, it has an all-black bill, red eye-ring, and lacks rufous in the wings. These secretive birds move quietly through dense foliage, and their presence is often revealed by their distinctive 'po-po-po-po' call, which is slower and more hollow-sounding than that of the Yellow-billed Cuckoo."
+    },
+    "Mangrove_Cuckoo": {
+        "Scientific Name": "Coccyzus minor",
+        "Habitat": "Mangrove forests, coastal woodlands",
+        "Diet": "Caterpillars, insects, small lizards, berries",
+        "Lifespan": "7-9 years",
+        "Weight": "65-75 g",
+        "Height": "28-32 cm",
+        "Wingspan": "40-45 cm",
+        "Interesting Fact": "Unlike some other cuckoo species, Mangrove Cuckoos are not brood parasites - they build their own nests and raise their own young.",
+        "Description": "The Mangrove Cuckoo is a medium-sized bird with brownish upperparts, buffy underparts, and a large, stout bill with a black upper mandible and yellow lower mandible. They have a bold black mask through the eye and a long, graduated tail with large white spots on the underside. These birds are secretive and difficult to observe as they move quietly through dense foliage. In the United States, they are found primarily in southern Florida."
+    },
+    "Yellow_billed_Cuckoo": {
+        "Scientific Name": "Coccyzus americanus",
+        "Habitat": "Deciduous forests, thickets near water",
+        "Diet": "Caterpillars, insects, small frogs, berries",
+        "Lifespan": "7-9 years",
+        "Weight": "55-65 g",
+        "Height": "26-30 cm",
+        "Wingspan": "38-43 cm",
+        "Interesting Fact": "Yellow-billed Cuckoos are known as 'rain crows' because they often call before summer rainstorms. They can eat large quantities of hairy caterpillars that most other birds avoid.",
+        "Description": "The Yellow-billed Cuckoo is a slender, long-tailed bird with brownish-gray upperparts and white underparts. They have a distinctive yellow lower mandible, rufous in the wings visible in flight, and large white spots on the underside of their tail. These secretive birds are more often heard than seen, with a distinctive 'ka-ka-ka-ka-ka-kow-kow-kowlp-kowlp-kowlp' call. Western populations have declined dramatically due to loss of riparian habitat."
+    },
+    "Gray_crowned_Rosy_Finch": {
+        "Scientific Name": "Leucosticte tephrocotis",
+        "Habitat": "Alpine tundra, high mountain meadows, snow fields",
+        "Diet": "Seeds, insects, spiders, plant buds",
+        "Lifespan": "5-7 years",
+        "Weight": "22-26 g",
+        "Height": "14-16 cm",
+        "Wingspan": "33-35 cm",
+        "Interesting Fact": "Gray-crowned Rosy-Finches are among the highest-altitude breeding birds in North America, nesting at elevations up to 14,000 feet.",
+        "Description": "The Gray-crowned Rosy-Finch is a chunky, mountain-dwelling finch with a brown body, pink highlights on the wings and belly, and a distinctive gray crown. Males are more brightly colored than females, with more extensive rosy patches. These hardy birds are adapted to cold conditions and are often found near snow and ice, even in winter. They have specialized feathering that extends down to their nostrils, helping them survive in harsh alpine environments."
+    },
+    "Black_Rosy_Finch": {
+        "Scientific Name": "Leucosticte atrata",
+        "Habitat": "Rocky alpine areas, snowfields, glacier edges",
+        "Diet": "Seeds, insects, spiders",
+        "Lifespan": "5-7 years",
+        "Weight": "21-24 g",
+        "Height": "14-16 cm",
+        "Wingspan": "32-34 cm",
+        "Interesting Fact": "Black Rosy-Finches have one of the most restricted breeding ranges of any bird in the continental United States, limited to high mountain regions in the western states.",
+        "Description": "The Black Rosy-Finch is a small, compact finch with sooty brown-black plumage, a black forehead, and rosy pink highlights on the wings, belly, and rump. They have gray on the back of the head and nape. These birds are high-altitude specialists, breeding on barren, rocky slopes above treeline. During winter, they may descend to lower elevations but typically remain in mountainous areas. Their dark coloration may help them absorb heat in their cold alpine habitat."
+    },
+    "Brown_capped_Rosy_Finch": {
+        "Scientific Name": "Leucosticte australis",
+        "Habitat": "Alpine tundra, rocky slopes above treeline",
+        "Diet": "Seeds, insects, spiders",
+        "Lifespan": "5-7 years",
+        "Weight": "20-23 g",
+        "Height": "14-16 cm",
+        "Wingspan": "32-34 cm",
+        "Interesting Fact": "The Brown-capped Rosy-Finch has the most restricted range of the three rosy-finch species, breeding almost exclusively in the mountains of Colorado and a small portion of Wyoming.",
+        "Description": "The Brown-capped Rosy-Finch is a small, stocky finch with a rich brown body, distinct brown cap, and rosy pink highlights on the wings, belly, and rump. Males are more vibrantly colored than females. These birds are alpine specialists, nesting in rock crevices on steep cliffs. In winter, they may form mixed flocks with other rosy-finch species and move to lower elevations, but they rarely leave the vicinity of mountains. They are adapted to find food in snowy conditions by using their strong bills to uncover seeds."
+    },
+    "Purple_Finch": {
+        "Scientific Name": "Haemorhous purpureus",
+        "Habitat": "Coniferous and mixed forests, woodland edges, orchards, suburbs",
+        "Diet": "Seeds, buds, blossoms, berries, insects",
+        "Lifespan": "2-8 years",
+        "Weight": "18-32 g",
+        "Height": "12-16 cm",
+        "Wingspan": "22-26 cm",
+        "Interesting Fact": "Despite its name, the Purple Finch isn't actually purple but rather a raspberry or rose-red color. Roger Tory Peterson described it as a 'sparrow dipped in raspberry juice.'",
+        "Description": "The Purple Finch is a stocky finch with a short, conical bill and a notched tail. Males have a rose-red head, breast, back, and rump, with brown wings and tail and little streaking on their belly. Females are brown and heavily streaked with a distinctive white eyebrow and facial striping. Often confused with the similar House Finch, Purple Finches have a more robust build, shorter and less deeply notched tail, and males have a more extensive red coloration. Their song is a rich, sweet warble that lacks the harsh notes of the House Finch."
+    },
+    "Northern_Flicker": {
+        "Scientific Name": "Colaptes auratus",
+        "Habitat": "Open woodlands, forest edges, parks, suburbs with trees",
+        "Diet": "Ants and other ground insects, fruits, berries, seeds, nuts",
+        "Lifespan": "5-9 years",
+        "Weight": "110-160 g",
+        "Height": "28-36 cm",
+        "Wingspan": "42-51 cm",
+        "Interesting Fact": "Northern Flickers are one of the few woodpeckers that frequently feed on the ground, where they use their slightly curved bills to dig for ants and beetles. They can consume thousands of ants in a single feeding session.",
+        "Description": "The Northern Flicker is a large, brownish woodpecker with a white rump patch visible in flight and distinctive black spotting on its belly and chest. There are two main color forms: 'Yellow-shafted' in the east and north (with yellow underwings and a red crescent on the nape) and 'Red-shafted' in the west (with salmon-pink underwings and no red nape). Both forms have a gray head, tan face, and a black bib. Unlike most woodpeckers, they spend considerable time on the ground foraging for ants. Their bouncing flight pattern and loud, piercing call make them easy to identify in the field."
+    },
+    "Acadian_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 037",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-12 years",
+        "Interesting Fact": "This bird species number 037 is known for its unique call and migration behavior."
+    },
+    "Great_Crested_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 038",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-13 years",
+        "Interesting Fact": "This bird species number 038 is known for its unique call and migration behavior."
+    },
+    "Least_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 039",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-14 years",
+        "Interesting Fact": "This bird species number 039 is known for its unique call and migration behavior."
+    },
+    "Olive_sided_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 040",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-10 years",
+        "Interesting Fact": "This bird species number 040 is known for its unique call and migration behavior."
+    },
+    "Scissor_tailed_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 041",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-11 years",
+        "Interesting Fact": "This bird species number 041 is known for its unique call and migration behavior."
+    },
+    "Vermilion_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 042",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-12 years",
+        "Interesting Fact": "This bird species number 042 is known for its unique call and migration behavior."
+    },
+    "Yellow_bellied_Flycatcher": {
+        "Scientific Name": "Scientificus birdus 043",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-13 years",
+        "Interesting Fact": "This bird species number 043 is known for its unique call and migration behavior."
+    },
+    "Frigatebird": {
+        "Scientific Name": "Scientificus birdus 044",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 044 is known for its unique call and migration behavior."
+    },
+    "Northern_Fulmar": {
+        "Scientific Name": "Scientificus birdus 045",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 045 is known for its unique call and migration behavior."
+    },
+    "Gadwall": {
+        "Scientific Name": "Scientificus birdus 046",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-11 years",
+        "Interesting Fact": "This bird species number 046 is known for its unique call and migration behavior."
+    },
+    "American_Goldfinch": {
+        "Scientific Name": "Spinus tristis",
+        "Habitat": "Open fields, meadows, floodplains, weedy fields, orchards, roadsides",
+        "Diet": "Seeds (especially thistle and sunflower), some insects, tree buds",
+        "Lifespan": "3-6 years (wild), up to 10 years (captivity)",
+        "Weight": "11-20 g",
+        "Height": "11-13 cm",
+        "Wingspan": "19-22 cm",
+        "Interesting Fact": "American Goldfinches are one of the strictest vegetarians in the bird world, selecting an almost exclusively seed-based diet. They are also one of the latest nesting birds, waiting until mid-to-late summer when thistle seeds and plant down are abundant.",
+        "Description": "The American Goldfinch is a small, vibrant finch with a short, conical bill and a notched tail. Breeding males are bright yellow with a black forehead, black wings, and white markings on wings and tail. Winter males and females are more dull olive-brown with pale yellow underparts and black wings with white wing bars. These birds are known for their bouncy, undulating flight pattern and sweet, canary-like songs. Their population remains stable due to their preference for open areas with thistles and other composite plants, habitat that has expanded with human clearing of forests."
+    },
+    "European_Goldfinch": {
+        "Scientific Name": "Carduelis carduelis",
+        "Habitat": "Open woodlands, parks, gardens, orchards, farmland edges",
+        "Diet": "Small seeds (especially thistles, teasels, dandelions), insects, buds",
+        "Lifespan": "5-8 years (wild), up to 12 years (captivity)",
+        "Weight": "14-19 g",
+        "Height": "12-14 cm",
+        "Wingspan": "21-25 cm",
+        "Interesting Fact": "The European Goldfinch has been kept as a caged bird for centuries and was historically depicted in Renaissance paintings as a symbol of fertility and resurrection. Their specialized bills allow them to extract seeds from thistles that most other birds cannot access.",
+        "Description": "The European Goldfinch is a strikingly colorful finch with a red face, black and white head, and golden-yellow wing bars on primarily black wings. The back is warm brown, and the underparts are whitish with buff flanks. Both sexes have similar plumage, though females may be slightly duller. Their cheerful, liquid twittering and tinkling calls make them a favorite among bird watchers. They are often seen feeding acrobatically on thistle heads and other seed-bearing plants."
+    },
+    "Boat_tailed_Grackle": {
+        "Scientific Name": "Quiscalus major",
+        "Habitat": "Coastal marshes, wetlands, suburban areas near water",
+        "Diet": "Insects, small crustaceans, fish, seeds, grains, fruits, human food scraps",
+        "Lifespan": "5-13 years",
+        "Weight": "165-250 g (males), 85-120 g (females)",
+        "Height": "38-43 cm (males), 28-33 cm (females)",
+        "Wingspan": "43-52 cm",
+        "Interesting Fact": "Boat-tailed Grackles exhibit extreme sexual dimorphism in size, with males being up to twice as large as females - one of the most pronounced size differences among North American songbirds.",
+        "Description": "The Boat-tailed Grackle is a large, glossy blackbird with a long, keel-shaped tail that is most noticeable during display flights. Males are larger and entirely iridescent black with a purple-blue sheen, yellow to amber eyes, and a heavy, pointed bill. Females are significantly smaller and brown, with darker wings and tail and paler underparts. These social birds are often found in noisy flocks along the southeastern coastal United States. Males perform elaborate courtship displays, spreading their tail feathers like the hull of a boat (hence the name), puffing up their feathers, and making a variety of mechanical-sounding calls."
+    },
+    "Eared_Grebe": {
+        "Scientific Name": "Scientificus birdus 050",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-10 years",
+        "Interesting Fact": "This bird species number 050 is known for its unique call and migration behavior."
+    },
+    "Horned_Grebe": {
+        "Scientific Name": "Scientificus birdus 051",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-11 years",
+        "Interesting Fact": "This bird species number 051 is known for its unique call and migration behavior."
+    },
+    "Pied_billed_Grebe": {
+        "Scientific Name": "Scientificus birdus 052",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-12 years",
+        "Interesting Fact": "This bird species number 052 is known for its unique call and migration behavior."
+    },
+    "Western_Grebe": {
+        "Scientific Name": "Scientificus birdus 053",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-13 years",
+        "Interesting Fact": "This bird species number 053 is known for its unique call and migration behavior."
+    },
+    "Blue_Grosbeak": {
+        "Scientific Name": "Passerina caerulea",
+        "Habitat": "Brushy fields, woodland edges, hedgerows, shrubby areas",
+        "Diet": "Seeds, insects, snails, spiders, fruits",
+        "Lifespan": "5-7 years",
+        "Weight": "26-31 g",
+        "Height": "14-19 cm",
+        "Wingspan": "26-29 cm",
+        "Interesting Fact": "Blue Grosbeaks often incorporate snake skins, pieces of cellophane, or plastic into their nests, which may help deter predators.",
+        "Description": "The Blue Grosbeak is a medium-sized songbird with a large, conical silvery-blue bill. Adult males are deep, rich blue with two chestnut-brown wing bars and black around the face. Females are warm cinnamon-brown with subtle blue tinges on the wings, tail, and rump. First-year males appear intermediate between adult males and females. These birds prefer shrubby habitats and field margins where they feed on seeds and insects. Their song is a rich, bubbling warble that resembles that of an American Robin but with more varied phrases."
+    },
+    "Evening_Grosbeak": {
+        "Scientific Name": "Coccothraustes vespertinus",
+        "Habitat": "Coniferous and mixed forests, suburban areas with seed feeders",
+        "Diet": "Seeds (especially maple and ash), berries, buds, insects",
+        "Lifespan": "5-15 years",
+        "Weight": "55-80 g",
+        "Height": "16-19 cm",
+        "Wingspan": "30-36 cm",
+        "Interesting Fact": "Despite its name, the Evening Grosbeak is active throughout the day, not just in the evening. The name comes from the erroneous belief by early naturalists that it only sang at dusk.",
+        "Description": "The Evening Grosbeak is a stocky, heavy-billed finch with striking yellow, black, and white plumage. Males have bright yellow bodies, black wings with large white patches, black tails, and prominent yellow eyebrow stripes on a dark head. Females are primarily gray with yellow tints on the neck and flanks, black and white wings, and a greenish-yellow bill. These birds are irruptive migrants, appearing unpredictably in southern regions during winter when northern food sources are scarce. They are known for their loud, ringing calls and their ability to crack large seeds with their powerful bills."
+    },
+    "Pine_Grosbeak": {
+        "Scientific Name": "Pinicola enucleator",
+        "Habitat": "Coniferous forests, especially spruce and pine, subalpine areas",
+        "Diet": "Seeds, buds, berries, insects",
+        "Lifespan": "5-9 years",
+        "Weight": "52-78 g",
+        "Height": "20-25 cm",
+        "Wingspan": "33-38 cm",
+        "Interesting Fact": "Pine Grosbeaks are so tame and unafraid of humans that they were once called 'mopes' by hunters because they would sit still even after being shot at.",
+        "Description": "The Pine Grosbeak is a large, plump finch with a stubby, conical bill. Males have a rosy-red body with gray on the wings and tail, featuring two white wing bars. Females are yellowish-olive to gray with a yellow-tinged head and rump. These gentle birds move slowly through coniferous forests, feeding on seeds, buds, and berries. Despite their size, they have a sweet, melodious warbling song. During winter, they may move south from their boreal forest breeding grounds in search of food."
+    },
+    "Rose_breasted_Grosbeak": {
+        "Scientific Name": "Pheucticus ludovicianus",
+        "Habitat": "Deciduous and mixed forests, woodland edges, gardens",
+        "Diet": "Insects, seeds, fruits, buds, nectar",
+        "Lifespan": "7-10 years",
+        "Weight": "35-65 g",
+        "Height": "18-22 cm",
+        "Wingspan": "29-33 cm",
+        "Interesting Fact": "Male Rose-breasted Grosbeaks are among the few songbirds that sing while sitting on the nest, sharing incubation duties with the female.",
+        "Description": "The Rose-breasted Grosbeak is a medium-sized songbird with a distinctive chunky bill. Males are strikingly patterned with black upper parts, white underparts, and a brilliant rose-red triangular patch on the breast. They also have red lining under their wings, white wing patches, and white spots on their black tails. Females look entirely different, with brown streaked plumage resembling a large sparrow, a bold white stripe above the eye, and white wing bars. Their rich, melodious song resembles that of a robin but more fluid, often described as a sweet, whistled warble."
+    },
+    "Pigeon_Guillemot": {
+        "Scientific Name": "Scientificus birdus 058",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-13 years",
+        "Interesting Fact": "This bird species number 058 is known for its unique call and migration behavior."
+    },
+    "California_Gull": {
+        "Scientific Name": "Scientificus birdus 059",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-14 years",
+        "Interesting Fact": "This bird species number 059 is known for its unique call and migration behavior."
+    },
+    "Glaucous_winged_Gull": {
+        "Scientific Name": "Scientificus birdus 060",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-10 years",
+        "Interesting Fact": "This bird species number 060 is known for its unique call and migration behavior."
+    },
+    "Heermann_Gull": {
+        "Scientific Name": "Scientificus birdus 061",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-11 years",
+        "Interesting Fact": "This bird species number 061 is known for its unique call and migration behavior."
+    },
+    "Herring_Gull": {
+        "Scientific Name": "Scientificus birdus 062",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-12 years",
+        "Interesting Fact": "This bird species number 062 is known for its unique call and migration behavior."
+    },
+    "Ivory_Gull": {
+        "Scientific Name": "Scientificus birdus 063",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-13 years",
+        "Interesting Fact": "This bird species number 063 is known for its unique call and migration behavior."
+    },
+    "Ring_billed_Gull": {
+        "Scientific Name": "Scientificus birdus 064",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-14 years",
+        "Interesting Fact": "This bird species number 064 is known for its unique call and migration behavior."
+    },
+    "Slaty_backed_Gull": {
+        "Scientific Name": "Scientificus birdus 065",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-10 years",
+        "Interesting Fact": "This bird species number 065 is known for its unique call and migration behavior."
+    },
+    "Western_Gull": {
+        "Scientific Name": "Scientificus birdus 066",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-11 years",
+        "Interesting Fact": "This bird species number 066 is known for its unique call and migration behavior."
+    },
+    "Anna_Hummingbird": {
+        "Scientific Name": "Scientificus birdus 067",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-12 years",
+        "Interesting Fact": "This bird species number 067 is known for its unique call and migration behavior."
+    },
+    "Ruby_throated_Hummingbird": {
+        "Scientific Name": "Scientificus birdus 068",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-13 years",
+        "Interesting Fact": "This bird species number 068 is known for its unique call and migration behavior."
+    },
+    "Rufous_Hummingbird": {
+        "Scientific Name": "Scientificus birdus 069",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-14 years",
+        "Interesting Fact": "This bird species number 069 is known for its unique call and migration behavior."
+    },
+    "Green_Violetear": {
+        "Scientific Name": "Scientificus birdus 070",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-10 years",
+        "Interesting Fact": "This bird species number 070 is known for its unique call and migration behavior."
+    },
+    "Long_tailed_Jaeger": {
+        "Scientific Name": "Scientificus birdus 071",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-11 years",
+        "Interesting Fact": "This bird species number 071 is known for its unique call and migration behavior."
+    },
+    "Pomarine_Jaeger": {
+        "Scientific Name": "Scientificus birdus 072",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-12 years",
+        "Interesting Fact": "This bird species number 072 is known for its unique call and migration behavior."
+    },
+    "Blue_Jay": {
+        "Scientific Name": "Cyanocitta cristata",
+        "Habitat": "Forests, especially those with oak trees, suburban areas, parks",
+        "Diet": "Nuts, seeds, insects, fruits, small vertebrates, eggs of other birds",
+        "Lifespan": "7-17 years in the wild",
+        "Weight": "70-100 g (2.5-3.5 oz)",
+        "Height": "22-30 cm (9-12 in)",
+        "Wingspan": "34-43 cm (13-17 in)",
+        "Description": "The Blue Jay is a striking blue crested bird with white and black barring. It has a white face and underparts, a bold black necklace, and vivid blue wings and tail with black bars and white patches. The crest can be raised or lowered depending on the bird's mood.",
+        "Interesting Fact": "Blue Jays are known for their intelligence and complex social systems. They can mimic the calls of hawks, often to scare away other birds from feeders, and are one of the few birds that cache food for later use."
+    },
+    "Florida_Jay": {
+        "Scientific Name": "Scientificus birdus 074",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-14 years",
+        "Interesting Fact": "This bird species number 074 is known for its unique call and migration behavior."
+    },
+    "Green_Jay": {
+        "Scientific Name": "Scientificus birdus 075",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-10 years",
+        "Interesting Fact": "This bird species number 075 is known for its unique call and migration behavior."
+    },
+    "Dark_eyed_Junco": {
+        "Scientific Name": "Scientificus birdus 076",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-11 years",
+        "Interesting Fact": "This bird species number 076 is known for its unique call and migration behavior."
+    },
+    "Tropical_Kingbird": {
+        "Scientific Name": "Scientificus birdus 077",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-12 years",
+        "Interesting Fact": "This bird species number 077 is known for its unique call and migration behavior."
+    },
+    "Gray_Kingbird": {
+        "Scientific Name": "Scientificus birdus 078",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-13 years",
+        "Interesting Fact": "This bird species number 078 is known for its unique call and migration behavior."
+    },
+    "Belted_Kingfisher": {
+        "Scientific Name": "Scientificus birdus 079",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 079 is known for its unique call and migration behavior."
+    },
+    "Green_Kingfisher": {
+        "Scientific Name": "Scientificus birdus 080",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 080 is known for its unique call and migration behavior."
+    },
+    "Pied_Kingfisher": {
+        "Scientific Name": "Scientificus birdus 081",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-11 years",
+        "Interesting Fact": "This bird species number 081 is known for its unique call and migration behavior."
+    },
+    "Ringed_Kingfisher": {
+        "Scientific Name": "Scientificus birdus 082",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-12 years",
+        "Interesting Fact": "This bird species number 082 is known for its unique call and migration behavior."
+    },
+    "White_breasted_Kingfisher": {
+        "Scientific Name": "Scientificus birdus 083",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-13 years",
+        "Interesting Fact": "This bird species number 083 is known for its unique call and migration behavior."
+    },
+    "Red_legged_Kittiwake": {
+        "Scientific Name": "Scientificus birdus 084",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-14 years",
+        "Interesting Fact": "This bird species number 084 is known for its unique call and migration behavior."
+    },
+    "Horned_Lark": {
+        "Scientific Name": "Scientificus birdus 085",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-10 years",
+        "Interesting Fact": "This bird species number 085 is known for its unique call and migration behavior."
+    },
+    "Pacific_Loon": {
+        "Scientific Name": "Scientificus birdus 086",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-11 years",
+        "Interesting Fact": "This bird species number 086 is known for its unique call and migration behavior."
+    },
+    "Mallard": {
+        "Scientific Name": "Scientificus birdus 087",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-12 years",
+        "Interesting Fact": "This bird species number 087 is known for its unique call and migration behavior."
+    },
+    "Western_Meadowlark": {
+        "Scientific Name": "Scientificus birdus 088",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-13 years",
+        "Interesting Fact": "This bird species number 088 is known for its unique call and migration behavior."
+    },
+    "Hooded_Merganser": {
+        "Scientific Name": "Scientificus birdus 089",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-14 years",
+        "Interesting Fact": "This bird species number 089 is known for its unique call and migration behavior."
+    },
+    "Red_breasted_Merganser": {
+        "Scientific Name": "Scientificus birdus 090",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-10 years",
+        "Interesting Fact": "This bird species number 090 is known for its unique call and migration behavior."
+    },
+    "Mockingbird": {
+        "Scientific Name": "Scientificus birdus 091",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-11 years",
+        "Interesting Fact": "This bird species number 091 is known for its unique call and migration behavior."
+    },
+    "Nighthawk": {
+        "Scientific Name": "Scientificus birdus 092",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-12 years",
+        "Interesting Fact": "This bird species number 092 is known for its unique call and migration behavior."
+    },
+    "Clark_Nutcracker": {
+        "Scientific Name": "Scientificus birdus 093",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-13 years",
+        "Interesting Fact": "This bird species number 093 is known for its unique call and migration behavior."
+    },
+    "White_breasted_Nuthatch": {
+        "Scientific Name": "Scientificus birdus 094",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-14 years",
+        "Interesting Fact": "This bird species number 094 is known for its unique call and migration behavior."
+    },
+    "Baltimore_Oriole": {
+        "Scientific Name": "Scientificus birdus 095",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-10 years",
+        "Interesting Fact": "This bird species number 095 is known for its unique call and migration behavior."
+    },
+    "Hooded_Oriole": {
+        "Scientific Name": "Scientificus birdus 096",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-11 years",
+        "Interesting Fact": "This bird species number 096 is known for its unique call and migration behavior."
+    },
+    "Orchard_Oriole": {
+        "Scientific Name": "Scientificus birdus 097",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-12 years",
+        "Interesting Fact": "This bird species number 097 is known for its unique call and migration behavior."
+    },
+    "Scott_Oriole": {
+        "Scientific Name": "Scientificus birdus 098",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-13 years",
+        "Interesting Fact": "This bird species number 098 is known for its unique call and migration behavior."
+    },
+    "Ovenbird": {
+        "Scientific Name": "Seiurus aurocapilla",
+        "Habitat": "Deciduous and mixed forests with dense understory",
+        "Diet": "Insects, arthropods, small invertebrates",
+        "Lifespan": "6-11 years",
+        "Weight": "18-28 g",
+        "Height": "14-16 cm",
+        "Wingspan": "20-24 cm",
+        "Interesting Fact": "The Ovenbird gets its name from its unique dome-shaped nest that resembles a Dutch oven, built on the forest floor. It's known for its distinctive 'teacher-teacher-teacher' song that gets progressively louder.",
+        "Description": "The Ovenbird is a small ground-dwelling warbler with olive-brown upperparts, white underparts with dark streaking, and a bold orange crown bordered by black stripes. It walks rather than hops and is often spotted foraging among leaf litter on the forest floor."
+    },
+    "White_Pelican": {
+        "Scientific Name": "Pelecanus erythrorhynchos",
+        "Habitat": "Lakes, marshes, salt bays",
+        "Diet": "Fish, crayfish, salamanders",
+        "Lifespan": "15-25 years",
+        "Weight": "5.4-9.1 kg",
+        "Height": "125-165 cm",
+        "Wingspan": "240-290 cm",
+        "Interesting Fact": "American White Pelicans develop a distinctive horn-like projection on their bills during breeding season that falls off after mating is complete.",
+        "Description": "The American White Pelican is an enormous white waterbird with black flight feathers visible only when wings are spread. They have a massive orange-yellow bill with a pouch used for catching fish and draining water. Unlike Brown Pelicans, they do not dive for food but instead scoop prey while swimming, often hunting cooperatively in groups. During breeding season, they develop a fibrous plate on the upper bill that resembles a horn."
+    },
+    "Western_Wood_Pewee": {
+        "Scientific Name": "Scientificus birdus 102",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-12 years",
+        "Interesting Fact": "This bird species number 102 is known for its unique call and migration behavior."
+    },
+    "Sayornis": {
+        "Scientific Name": "Scientificus birdus 103",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-13 years",
+        "Interesting Fact": "This bird species number 103 is known for its unique call and migration behavior."
+    },
+    "American_Pipit": {
+        "Scientific Name": "Scientificus birdus 104",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-14 years",
+        "Interesting Fact": "This bird species number 104 is known for its unique call and migration behavior."
+    },
+    "Whip_poor_Will": {
+        "Scientific Name": "Scientificus birdus 105",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-10 years",
+        "Interesting Fact": "This bird species number 105 is known for its unique call and migration behavior."
+    },
+    "Horned_Puffin": {
+        "Scientific Name": "Scientificus birdus 106",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-11 years",
+        "Interesting Fact": "This bird species number 106 is known for its unique call and migration behavior."
+    },
+    "Common_Raven": {
+        "Scientific Name": "Scientificus birdus 107",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-12 years",
+        "Interesting Fact": "This bird species number 107 is known for its unique call and migration behavior."
+    },
+    "White_necked_Raven": {
+        "Scientific Name": "Scientificus birdus 108",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-13 years",
+        "Interesting Fact": "This bird species number 108 is known for its unique call and migration behavior."
+    },
+    "American_Redstart": {
+        "Scientific Name": "Scientificus birdus 109",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-14 years",
+        "Interesting Fact": "This bird species number 109 is known for its unique call and migration behavior."
+    },
+    "Geococcyx": {
+        "Scientific Name": "Scientificus birdus 110",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-10 years",
+        "Interesting Fact": "This bird species number 110 is known for its unique call and migration behavior."
+    },
+    "Loggerhead_Shrike": {
+        "Scientific Name": "Scientificus birdus 111",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-11 years",
+        "Interesting Fact": "This bird species number 111 is known for its unique call and migration behavior."
+    },
+    "Great_Grey_Shrike": {
+        "Scientific Name": "Scientificus birdus 112",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-12 years",
+        "Interesting Fact": "This bird species number 112 is known for its unique call and migration behavior."
+    },
+    "Baird_Sparrow": {
+        "Scientific Name": "Scientificus birdus 113",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-13 years",
+        "Interesting Fact": "This bird species number 113 is known for its unique call and migration behavior."
+    },
+    "Black_throated_Sparrow": {
+        "Scientific Name": "Scientificus birdus 114",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 114 is known for its unique call and migration behavior."
+    },
+    "Brewer_Sparrow": {
+        "Scientific Name": "Scientificus birdus 115",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 115 is known for its unique call and migration behavior."
+    },
+    "Chipping_Sparrow": {
+        "Scientific Name": "Scientificus birdus 116",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-11 years",
+        "Interesting Fact": "This bird species number 116 is known for its unique call and migration behavior."
+    },
+    "Clay_colored_Sparrow": {
+        "Scientific Name": "Scientificus birdus 117",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-12 years",
+        "Interesting Fact": "This bird species number 117 is known for its unique call and migration behavior."
+    },
+    "House_Sparrow": {
+        "Scientific Name": "Scientificus birdus 118",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-13 years",
+        "Interesting Fact": "This bird species number 118 is known for its unique call and migration behavior."
+    },
+    "Field_Sparrow": {
+        "Scientific Name": "Scientificus birdus 119",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-14 years",
+        "Interesting Fact": "This bird species number 119 is known for its unique call and migration behavior."
+    },
+    "Fox_Sparrow": {
+        "Scientific Name": "Scientificus birdus 120",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-10 years",
+        "Interesting Fact": "This bird species number 120 is known for its unique call and migration behavior."
+    },
+    "Grasshopper_Sparrow": {
+        "Scientific Name": "Scientificus birdus 121",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-11 years",
+        "Interesting Fact": "This bird species number 121 is known for its unique call and migration behavior."
+    },
+    "Harris_Sparrow": {
+        "Scientific Name": "Scientificus birdus 122",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-12 years",
+        "Interesting Fact": "This bird species number 122 is known for its unique call and migration behavior."
+    },
+    "Henslow_Sparrow": {
+        "Scientific Name": "Scientificus birdus 123",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-13 years",
+        "Interesting Fact": "This bird species number 123 is known for its unique call and migration behavior."
+    },
+    "Le_Conte_Sparrow": {
+        "Scientific Name": "Scientificus birdus 124",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-14 years",
+        "Interesting Fact": "This bird species number 124 is known for its unique call and migration behavior."
+    },
+    "Lincoln_Sparrow": {
+        "Scientific Name": "Scientificus birdus 125",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-10 years",
+        "Interesting Fact": "This bird species number 125 is known for its unique call and migration behavior."
+    },
+    "Nelson_Sharp_tailed_Sparrow": {
+        "Scientific Name": "Scientificus birdus 126",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-11 years",
+        "Interesting Fact": "This bird species number 126 is known for its unique call and migration behavior."
+    },
+    "Savannah_Sparrow": {
+        "Scientific Name": "Scientificus birdus 127",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-12 years",
+        "Interesting Fact": "This bird species number 127 is known for its unique call and migration behavior."
+    },
+    "Seaside_Sparrow": {
+        "Scientific Name": "Scientificus birdus 128",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-13 years",
+        "Interesting Fact": "This bird species number 128 is known for its unique call and migration behavior."
+    },
+    "Song_Sparrow": {
+        "Scientific Name": "Scientificus birdus 129",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-14 years",
+        "Interesting Fact": "This bird species number 129 is known for its unique call and migration behavior."
+    },
+    "Tree_Sparrow": {
+        "Scientific Name": "Scientificus birdus 130",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-10 years",
+        "Interesting Fact": "This bird species number 130 is known for its unique call and migration behavior."
+    },
+    "Vesper_Sparrow": {
+        "Scientific Name": "Scientificus birdus 131",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-11 years",
+        "Interesting Fact": "This bird species number 131 is known for its unique call and migration behavior."
+    },
+    "White_crowned_Sparrow": {
+        "Scientific Name": "Scientificus birdus 132",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-12 years",
+        "Interesting Fact": "This bird species number 132 is known for its unique call and migration behavior."
+    },
+    "White_throated_Sparrow": {
+        "Scientific Name": "Scientificus birdus 133",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-13 years",
+        "Interesting Fact": "This bird species number 133 is known for its unique call and migration behavior."
+    },
+    "Cape_Glossy_Starling": {
+        "Scientific Name": "Scientificus birdus 134",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-14 years",
+        "Interesting Fact": "This bird species number 134 is known for its unique call and migration behavior."
+    },
+    "Bank_Swallow": {
+        "Scientific Name": "Scientificus birdus 135",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-10 years",
+        "Interesting Fact": "This bird species number 135 is known for its unique call and migration behavior."
+    },
+    "Barn_Swallow": {
+        "Scientific Name": "Scientificus birdus 136",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-11 years",
+        "Interesting Fact": "This bird species number 136 is known for its unique call and migration behavior."
+    },
+    "Cliff_Swallow": {
+        "Scientific Name": "Scientificus birdus 137",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-12 years",
+        "Interesting Fact": "This bird species number 137 is known for its unique call and migration behavior."
+    },
+    "Tree_Swallow": {
+        "Scientific Name": "Scientificus birdus 138",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-13 years",
+        "Interesting Fact": "This bird species number 138 is known for its unique call and migration behavior."
+    },
+    "Scarlet_Tanager": {
+        "Scientific Name": "Piranga olivacea",
+        "Habitat": "Mature deciduous forests with tall trees, especially oak forests",
+        "Diet": "Mainly insects, especially bees, wasps, beetles, and caterpillars; also berries and small fruits",
+        "Lifespan": "Up to 10 years in the wild",
+        "Weight": "23-38 g (0.8-1.3 oz)",
+        "Height": "16-19 cm (6.3-7.5 in)",
+        "Wingspan": "25-30 cm (9.8-11.8 in)",
+        "Description": "Male in breeding plumage has brilliant scarlet-red body with jet-black wings and tail. Females and fall males are olive-green above, yellowish below, with darker olive wings. Has a stout, pale bill and relatively short tail.",
+        "Interesting Fact": "Despite their bright coloration, Scarlet Tanagers can be difficult to spot as they tend to stay high in the forest canopy. Their harsh, burry song sounds like a robin with a sore throat."
+    },
+    "Summer_Tanager": {
+        "Scientific Name": "Scientificus birdus 140",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-10 years",
+        "Interesting Fact": "This bird species number 140 is known for its unique call and migration behavior."
+    },
+    "Western_Tanager": {
+        "Scientific Name": "Scientificus birdus 141",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-11 years",
+        "Interesting Fact": "This bird species number 141 is known for its unique call and migration behavior."
+    },
+    "Northern_Waterthrush": {
+        "Scientific Name": "Scientificus birdus 142",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-12 years",
+        "Interesting Fact": "This bird species number 142 is known for its unique call and migration behavior."
+    },
+    "Louisiana_Waterthrush": {
+        "Scientific Name": "Scientificus birdus 143",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-13 years",
+        "Interesting Fact": "This bird species number 143 is known for its unique call and migration behavior."
+    },
+    "Bohemian_Waxwing": {
+        "Scientific Name": "Scientificus birdus 144",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-14 years",
+        "Interesting Fact": "This bird species number 144 is known for its unique call and migration behavior."
+    },
+    "Cedar_Waxwing": {
+        "Scientific Name": "Scientificus birdus 145",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-10 years",
+        "Interesting Fact": "This bird species number 145 is known for its unique call and migration behavior."
+    },
+    "American_Three_toed_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 146",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-11 years",
+        "Interesting Fact": "This bird species number 146 is known for its unique call and migration behavior."
+    },
+    "Pileated_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 147",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-12 years",
+        "Interesting Fact": "This bird species number 147 is known for its unique call and migration behavior."
+    },
+    "Red_bellied_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 148",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-13 years",
+        "Interesting Fact": "This bird species number 148 is known for its unique call and migration behavior."
+    },
+    "Red_cockaded_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 149",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 149 is known for its unique call and migration behavior."
+    },
+    "Red_headed_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 150",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 150 is known for its unique call and migration behavior."
+    },
+    "Downy_Woodpecker": {
+        "Scientific Name": "Scientificus birdus 151",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-11 years",
+        "Interesting Fact": "This bird species number 151 is known for its unique call and migration behavior."
+    },
+    "Bewick_Wren": {
+        "Scientific Name": "Scientificus birdus 152",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-12 years",
+        "Interesting Fact": "This bird species number 152 is known for its unique call and migration behavior."
+    },
+    "Cactus_Wren": {
+        "Scientific Name": "Scientificus birdus 153",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-13 years",
+        "Interesting Fact": "This bird species number 153 is known for its unique call and migration behavior."
+    },
+    "Carolina_Wren": {
+        "Scientific Name": "Scientificus birdus 154",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-14 years",
+        "Interesting Fact": "This bird species number 154 is known for its unique call and migration behavior."
+    },
+    "House_Wren": {
+        "Scientific Name": "Scientificus birdus 155",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-10 years",
+        "Interesting Fact": "This bird species number 155 is known for its unique call and migration behavior."
+    },
+    "Marsh_Wren": {
+        "Scientific Name": "Scientificus birdus 156",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-11 years",
+        "Interesting Fact": "This bird species number 156 is known for its unique call and migration behavior."
+    },
+    "Rock_Wren": {
+        "Scientific Name": "Scientificus birdus 157",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-12 years",
+        "Interesting Fact": "This bird species number 157 is known for its unique call and migration behavior."
+    },
+    "Winter_Wren": {
+        "Scientific Name": "Scientificus birdus 158",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-13 years",
+        "Interesting Fact": "This bird species number 158 is known for its unique call and migration behavior."
+    },
+    "Common_Yellowthroat": {
+        "Scientific Name": "Scientificus birdus 159",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-14 years",
+        "Interesting Fact": "This bird species number 159 is known for its unique call and migration behavior."
+    },
+    "Yellow_Warbler": {
+        "Scientific Name": "Scientificus birdus 160",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-10 years",
+        "Interesting Fact": "This bird species number 160 is known for its unique call and migration behavior."
+    },
+    "Black_and_white_Warbler": {
+        "Scientific Name": "Scientificus birdus 161",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-11 years",
+        "Interesting Fact": "This bird species number 161 is known for its unique call and migration behavior."
+    },
+    "Black_throated_Blue_Warbler": {
+        "Scientific Name": "Scientificus birdus 162",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-12 years",
+        "Interesting Fact": "This bird species number 162 is known for its unique call and migration behavior."
+    },
+    "Blue_winged_Warbler": {
+        "Scientific Name": "Scientificus birdus 163",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-13 years",
+        "Interesting Fact": "This bird species number 163 is known for its unique call and migration behavior."
+    },
+    "Canada_Warbler": {
+        "Scientific Name": "Scientificus birdus 164",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-14 years",
+        "Interesting Fact": "This bird species number 164 is known for its unique call and migration behavior."
+    },
+    "Cape_May_Warbler": {
+        "Scientific Name": "Scientificus birdus 165",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-10 years",
+        "Interesting Fact": "This bird species number 165 is known for its unique call and migration behavior."
+    },
+    "Cerulean_Warbler": {
+        "Scientific Name": "Scientificus birdus 166",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-11 years",
+        "Interesting Fact": "This bird species number 166 is known for its unique call and migration behavior."
+    },
+    "Chestnut_sided_Warbler": {
+        "Scientific Name": "Scientificus birdus 167",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-12 years",
+        "Interesting Fact": "This bird species number 167 is known for its unique call and migration behavior."
+    },
+    "Golden_winged_Warbler": {
+        "Scientific Name": "Scientificus birdus 168",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-13 years",
+        "Interesting Fact": "This bird species number 168 is known for its unique call and migration behavior."
+    },
+    "Hooded_Warbler": {
+        "Scientific Name": "Scientificus birdus 169",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-14 years",
+        "Interesting Fact": "This bird species number 169 is known for its unique call and migration behavior."
+    },
+    "Kentucky_Warbler": {
+        "Scientific Name": "Scientificus birdus 170",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-10 years",
+        "Interesting Fact": "This bird species number 170 is known for its unique call and migration behavior."
+    },
+    "Magnolia_Warbler": {
+        "Scientific Name": "Scientificus birdus 171",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-11 years",
+        "Interesting Fact": "This bird species number 171 is known for its unique call and migration behavior."
+    },
+    "Mourning_Warbler": {
+        "Scientific Name": "Scientificus birdus 172",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-12 years",
+        "Interesting Fact": "This bird species number 172 is known for its unique call and migration behavior."
+    },
+    "Myrtle_Warbler": {
+        "Scientific Name": "Scientificus birdus 173",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-13 years",
+        "Interesting Fact": "This bird species number 173 is known for its unique call and migration behavior."
+    },
+    "Nashville_Warbler": {
+        "Scientific Name": "Scientificus birdus 174",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-14 years",
+        "Interesting Fact": "This bird species number 174 is known for its unique call and migration behavior."
+    },
+    "Orange_crowned_Warbler": {
+        "Scientific Name": "Scientificus birdus 175",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-10 years",
+        "Interesting Fact": "This bird species number 175 is known for its unique call and migration behavior."
+    },
+    "Palm_Warbler": {
+        "Scientific Name": "Scientificus birdus 176",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-11 years",
+        "Interesting Fact": "This bird species number 176 is known for its unique call and migration behavior."
+    },
+    "Pine_Warbler": {
+        "Scientific Name": "Scientificus birdus 177",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-12 years",
+        "Interesting Fact": "This bird species number 177 is known for its unique call and migration behavior."
+    },
+    "Prairie_Warbler": {
+        "Scientific Name": "Scientificus birdus 178",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-13 years",
+        "Interesting Fact": "This bird species number 178 is known for its unique call and migration behavior."
+    },
+    "Prothonotary_Warbler": {
+        "Scientific Name": "Scientificus birdus 179",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "9-14 years",
+        "Interesting Fact": "This bird species number 179 is known for its unique call and migration behavior."
+    },
+    "Swainson_Warbler": {
+        "Scientific Name": "Scientificus birdus 180",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "10-10 years",
+        "Interesting Fact": "This bird species number 180 is known for its unique call and migration behavior."
+    },
+    "Tennessee_Warbler": {
+        "Scientific Name": "Scientificus birdus 181",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "11-11 years",
+        "Interesting Fact": "This bird species number 181 is known for its unique call and migration behavior."
+    },
+    "Wilson_Warbler": {
+        "Scientific Name": "Scientificus birdus 182",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "5-12 years",
+        "Interesting Fact": "This bird species number 182 is known for its unique call and migration behavior."
+    },
+    "Worm_eating_Warbler": {
+        "Scientific Name": "Scientificus birdus 183",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "6-13 years",
+        "Interesting Fact": "This bird species number 183 is known for its unique call and migration behavior."
+    },
+    "Yellow_breasted_Warbler": {
+        "Scientific Name": "Scientificus birdus 184",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "7-14 years",
+        "Interesting Fact": "This bird species number 184 is known for its unique call and migration behavior."
+    },
+    "Yellow_throated_Warbler": {
+        "Scientific Name": "Scientificus birdus 185",
+        "Habitat": "Forests, wetlands, or open fields",
+        "Diet": "Insects, seeds, or small fruits",
+        "Lifespan": "8-10 years",
+        "Interesting Fact": "This bird species number 185 is known for its unique call and migration behavior."
+    },
+    "Abert_Towhee": {
+        "Scientific Name": "Melozone aberti",
+        "Habitat": "Riparian thickets, desert washes",
+        "Diet": "Seeds, insects, berries",
+        "Lifespan": "8-12 years",
+        "Weight": "45-55 g",
+        "Height": "21-25 cm",
+        "Wingspan": "28-32 cm",
+        "Interesting Fact": "Abert's Towhees are highly territorial and typically mate for life, defending their territory year-round.",
+        "Description": "The Abert's Towhee is a long-tailed, ground-dwelling sparrow with overall grayish-brown plumage, cinnamon-rufous undertail coverts, and a distinctive black face patch. They have pinkish-orange bills and pale eyes. These birds are typically found skulking in dense underbrush, using their strong feet to scratch in leaf litter for food. Their range is limited primarily to parts of the southwestern United States and northern Mexico."
+    },
+    "Green_tailed_Towhee": {
+        "Scientific Name": "Pipilo chlorurus",
+        "Habitat": "Montane shrublands, chaparral",
+        "Diet": "Insects, seeds, berries",
+        "Lifespan": "7-11 years",
+        "Weight": "26-30 g",
+        "Height": "18-20 cm",
+        "Wingspan": "25-28 cm",
+        "Interesting Fact": "The Green-tailed Towhee is the only completely migratory towhee species in North America.",
+        "Description": "The Green-tailed Towhee is a medium-sized sparrow with olive-green upperparts, gray underparts, and rufous crown. They have a distinctive white throat, yellow-green wing edges and tail, and a short, thick bill. These birds forage on the ground, using both feet to scratch in leaf litter and soil. During breeding season, males sing from prominent perches to establish territory and attract mates."
+    },
+    "Brown_Thrasher": {
+        "Scientific Name": "Toxostoma rufum",
+        "Habitat": "Thickets, hedgerows, forest edges",
+        "Diet": "Insects, fruits, seeds, small lizards",
+        "Lifespan": "8-12 years",
+        "Weight": "60-89 g",
+        "Height": "23-30 cm",
+        "Wingspan": "29-33 cm",
+        "Interesting Fact": "Brown Thrashers have one of the largest song repertoires of North American birds, with over 1,000 different song types.",
+        "Description": "The Brown Thrasher is a large, slender songbird with rich rufous-brown upperparts, heavily streaked whitish underparts, and a long, slightly curved bill. They have bright yellow eyes, long tail, and two prominent white wing bars. These birds are often found in dense shrubby habitats where they forage on the ground, flipping leaves and soil with their bills in search of food. They are excellent vocal mimics and can imitate many other bird species."
+    },
+    "Sage_Thrasher": {
+        "Scientific Name": "Oreoscoptes montanus",
+        "Habitat": "Sagebrush plains, arid scrubland",
+        "Diet": "Insects, berries, small fruits",
+        "Lifespan": "7-9 years",
+        "Weight": "40-50 g",
+        "Height": "20-23 cm",
+        "Wingspan": "30-31 cm",
+        "Interesting Fact": "The Sage Thrasher is highly dependent on sagebrush habitat and has been called the 'canary in the coal mine' for the health of sagebrush ecosystems.",
+        "Description": "The Sage Thrasher is a medium-sized, slender songbird with brownish-gray upperparts and heavily spotted white underparts. They have a relatively short, straight bill compared to other thrashers, pale eyes, and white corners on their tail. Although smaller than other thrashers, they are the largest songbird that breeds primarily in sagebrush habitats. Males perform flight songs during courtship, ascending into the air and descending while singing complex melodious songs."
+    },
+    "Curve_billed_Thrasher": {
+        "Scientific Name": "Toxostoma curvirostre",
+        "Habitat": "Desert scrub, mesquite bosques, suburban areas",
+        "Diet": "Insects, fruits, berries, small reptiles",
+        "Lifespan": "8-10 years",
+        "Weight": "70-95 g",
+        "Height": "25-28 cm",
+        "Wingspan": "29-33 cm",
+        "Interesting Fact": "Curve-billed Thrashers often build their nests in cholla cacti for protection against predators, despite the obvious danger from the cacti's sharp spines.",
+        "Description": "The Curve-billed Thrasher is a large, long-tailed songbird with grayish-brown upperparts, spotted whitish underparts, and a distinctively curved bill. They have pale yellow to orange eyes and a dark malar stripe (mustache). These birds are common in desert habitats where they spend much time on the ground foraging, using their curved bills to flip over debris in search of food. They are known for their rich, musical songs and ability to mimic other birds."
+    },
+    "Greater_Roadrunner": {
+        "Scientific Name": "Geococcyx californianus",
+        "Habitat": "Desert scrub, chaparral, open woodland",
+        "Diet": "Lizards, snakes, insects, birds, rodents, fruits",
+        "Lifespan": "7-8 years",
+        "Weight": "300-380 g",
+        "Height": "50-62 cm",
+        "Wingspan": "43-61 cm",
+        "Interesting Fact": "Despite popular cartoons, roadrunners cannot outrun coyotes at top speed. However, they can fly, although they prefer running, reaching speeds up to 20 mph (32 km/h).",
+        "Description": "The Greater Roadrunner is a large, ground-dwelling cuckoo with a distinctive appearance: streaked brown and white plumage, a long tail, strong legs, and a shaggy crest. They have a blue-and-red patch of bare skin behind the eye, a heavy, slightly curved bill, and an X-shaped footprint. These birds are famous for their running ability and preference for sprinting over flying. They are opportunistic predators known for their ability to catch and kill rattlesnakes."
+    },
+    "Great_Horned_Owl": {
+        "Scientific Name": "Bubo virginianus",
+        "Habitat": "Forests, deserts, mountains, urban areas",
+        "Diet": "Mammals, birds, reptiles, amphibians, fish, insects",
+        "Lifespan": "15-25 years",
+        "Weight": "910-2500 g",
+        "Height": "46-63 cm",
+        "Wingspan": "91-153 cm",
+        "Interesting Fact": "Great Horned Owls are powerful predators that can take prey much larger than themselves, including other raptors such as Ospreys and falcons.",
+        "Description": "The Great Horned Owl is a large, powerful owl with prominent ear tufts (which are not actually ears but feather tufts), a reddish-brown facial disk, and yellow-orange eyes. They have a mottled brown and gray body with a white patch on the throat. As one of North America's most common and adaptable owls, they are found in diverse habitats across the continent. They are strictly nocturnal hunters with exceptional hearing and vision, capable of silent flight due to specialized feather structure that muffles sound."
+    },
+    "Barn_Owl": {
+        "Scientific Name": "Tyto alba",
+        "Habitat": "Open fields, farmland, marshes, urban areas",
+        "Diet": "Small mammals (primarily rodents), small birds, insects",
+        "Lifespan": "4-10 years (wild), up to 20 years (captivity)",
+        "Weight": "400-700 g",
+        "Height": "33-40 cm",
+        "Wingspan": "80-95 cm",
+        "Interesting Fact": "Barn Owls have asymmetrical ears positioned at different heights on their skull, allowing them to pinpoint prey by sound alone with remarkable accuracy, even in complete darkness.",
+        "Description": "The Barn Owl is a medium-sized owl with a distinctive heart-shaped facial disk, white to pale golden underparts, and golden-buff upperparts flecked with gray and black. They lack ear tufts and have long, slender legs. Their relatively small eyes are dark, giving them a unique appearance among owls. Barn Owls are among the most widespread birds in the world, found on six continents. They are incredibly efficient hunters, potentially consuming up to 1,000 mice per year, making them valuable for rodent control in agricultural areas."
+    },
+    "Eastern_Screech_Owl": {
+        "Scientific Name": "Megascops asio",
+        "Habitat": "Woodlands, forests, suburban areas with trees",
+        "Diet": "Small mammals, insects, birds, reptiles, amphibians",
+        "Lifespan": "8-10 years",
+        "Weight": "140-260 g",
+        "Height": "16-25 cm",
+        "Wingspan": "46-61 cm",
+        "Interesting Fact": "Eastern Screech-Owls come in two distinct color morphs—red (rufous) and gray—with the prevalence of each varying by region and habitat.",
+        "Description": "The Eastern Screech-Owl is a small owl with pointed ear tufts, yellow eyes, and a facial disk framed in black. Despite their name, they rarely screech; their call is more of a descending whinny or soft tremolo. These highly camouflaged birds are masters at blending into tree bark, often perching motionless in tree cavities. They are nocturnal hunters using their excellent hearing and vision to locate prey. Despite being common throughout eastern North America, they are seldom seen due to their small size, camouflage, and nocturnal habits."
+    },
+    "Western_Screech_Owl": {
+        "Scientific Name": "Megascops kennicottii",
+        "Habitat": "Woodlands, forests, riparian areas, desert oases",
+        "Diet": "Small mammals, insects, birds, reptiles, amphibians",
+        "Lifespan": "8-10 years",
+        "Weight": "130-300 g",
+        "Height": "19-26 cm",
+        "Wingspan": "53-61 cm",
+        "Interesting Fact": "Western Screech-Owls can turn their heads up to 270 degrees, allowing them to look directly behind themselves without moving their bodies.",
+        "Description": "The Western Screech-Owl is a small, stocky owl with ear tufts, yellow eyes, and a square-shaped head. They appear in gray or brown color morphs, with complex patterns of streaking and barring that provide excellent camouflage against tree bark. Their bouncing, accelerating series of short whistles is a distinctive sound of western woodlands at night. These adaptable owls are found in various habitats throughout western North America, from deserts to mountains, and have adjusted well to human presence in suburban areas with mature trees."
+    },
+    "Northern_Saw_whet_Owl": {
+        "Scientific Name": "Aegolius acadicus",
+        "Habitat": "Dense coniferous or mixed forests",
+        "Diet": "Small mammals (primarily mice), small birds, insects",
+        "Lifespan": "7-8 years",
+        "Weight": "65-100 g",
+        "Height": "17-22 cm",
+        "Wingspan": "42-47 cm",
+        "Interesting Fact": "The Saw-whet Owl gets its name from its repetitive 'skiew' call that resembles the sound of a saw being sharpened on a whetstone.",
+        "Description": "The Northern Saw-whet Owl is one of North America's smallest owls, with a large, round head, yellow eyes, and a white facial disk with brown streaks. These tiny owls lack ear tufts and have a brown back with white spots and a buff-colored breast with brown streaks. Despite being more common than once thought, they remain difficult to spot due to their small size, nocturnal habits, and preference for dense forest habitats. During migration, they can be found in surprising numbers at banding stations throughout eastern North America."
+    },
+    "Snowy_Owl": {
+        "Scientific Name": "Bubo scandiacus",
+        "Habitat": "Arctic tundra, open fields and shorelines during winter migrations",
+        "Diet": "Lemmings, voles, rabbits, birds, fish",
+        "Lifespan": "10-15 years (wild), up to 28 years (captivity)",
+        "Weight": "1600-2950 g",
+        "Height": "52-71 cm",
+        "Wingspan": "125-150 cm",
+        "Interesting Fact": "Unlike most owls, Snowy Owls are diurnal (active during the day) and nest on the ground, as there are few trees in their Arctic breeding grounds.",
+        "Description": "The Snowy Owl is a large, powerful owl with a rounded head, yellow eyes, and no ear tufts. They are predominantly white, with females and juveniles showing more dark barring than males, which may become nearly pure white with age. These impressive birds are built for Arctic conditions with heavily feathered feet and dense insulating plumage. They are one of few owl species that migrate, with some individuals traveling thousands of miles south during winter, especially when lemming populations crash in their breeding grounds."
+    }
+}

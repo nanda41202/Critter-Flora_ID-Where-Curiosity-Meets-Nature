@@ -1,0 +1,570 @@
+{
+  "abies_concolor": {
+    "scientific_name": "Abies concolor",
+    "common_name": "White Fir",
+    "family": "Pinaceae",
+    "origin": "Western North America",
+    "description": "An evergreen conifer with a conical crown and beautiful blue-green needles, often used as ornamental trees and Christmas trees.",
+    "features": "Tall evergreen tree with soft blue-green needles arranged in flat sprays. Bark is smooth and gray, becoming deeply furrowed with age."
+  },
+  "abies_nordmanniana": {
+    "scientific_name": "Abies nordmanniana",
+    "common_name": "Nordmann Fir",
+    "family": "Pinaceae",
+    "origin": "Caucasus Mountains",
+    "description": "Popular Christmas tree known for excellent needle retention and symmetrical shape.",
+    "features": "Deep green glossy needles with silvery undersides. Forms a perfect pyramidal shape with horizontal branches."
+  },
+  "acer_campestre": {
+    "scientific_name": "Acer campestre",
+    "common_name": "Field Maple",
+    "family": "Sapindaceae",
+    "origin": "Europe, Western Asia",
+    "description": "Small deciduous tree with dense, rounded crown often used in hedgerows.",
+    "features": "Small, five-lobed leaves that turn yellow in autumn. Corky bark and distinctive winged fruits (samaras)."
+  },
+  "acer_ginnala": {
+    "scientific_name": "Acer ginnala",
+    "common_name": "Amur Maple",
+    "family": "Sapindaceae",
+    "origin": "Northeast Asia",
+    "description": "Small deciduous tree with excellent fall color, often grown as a multi-stemmed shrub.",
+    "features": "Three-lobed leaves that turn brilliant scarlet in autumn. Fragrant flowers and red-winged samaras in summer."
+  },
+  "acer_griseum": {
+    "scientific_name": "Acer griseum",
+    "common_name": "Paperbark Maple",
+    "family": "Sapindaceae",
+    "origin": "Central China",
+    "description": "Ornamental tree prized for its exfoliating cinnamon-colored bark.",
+    "features": "Trifoliate leaves turn brilliant orange-red in autumn. Distinctive peeling, papery bark in cinnamon to reddish-brown colors."
+  },
+  "acer_negundo": {
+    "scientific_name": "Acer negundo",
+    "common_name": "Boxelder",
+    "family": "Sapindaceae",
+    "origin": "North America",
+    "description": "Fast-growing deciduous tree with compound leaves, often considered a weedy species but adaptable to many conditions.",
+    "features": "Compound leaves with 3-7 leaflets, unlike most other maples. Produces abundant winged seeds (samaras) and has opposite branching pattern."
+  },
+  "acer_palmatum": {
+    "scientific_name": "Acer palmatum",
+    "common_name": "Japanese Maple",
+    "family": "Sapindaceae",
+    "origin": "Japan, Korea, China",
+    "description": "Small deciduous tree prized for its elegance and beautiful foliage that changes colors throughout the seasons.",
+    "features": "Delicate, palmate leaves with 5-9 pointed lobes in various colors from red to green to variegated. Creates a graceful silhouette with layered branching."
+  },
+  "acer_pensylvanicum": {
+    "scientific_name": "Acer pensylvanicum",
+    "common_name": "Striped Maple",
+    "family": "Sapindaceae",
+    "origin": "Eastern North America",
+    "description": "Small understory tree with distinctive vertically striped bark and large, three-lobed leaves.",
+    "features": "Smooth greenish bark with white stripes that gives it the common name 'snakebark maple'. Three-lobed leaves can be up to 6 inches long."
+  },
+  "acer_platanoides": {
+    "scientific_name": "Acer platanoides",
+    "common_name": "Norway Maple",
+    "family": "Sapindaceae",
+    "origin": "Europe to Western Asia",
+    "description": "Medium to large deciduous tree widely planted as a street tree, with some varieties becoming invasive in North America.",
+    "features": "Dense, rounded crown with 5-lobed leaves similar to sycamore. Produces milky sap when leaf petiole is broken, distinguishing it from other maples."
+  },
+  "acer_pseudoplatanus": {
+    "scientific_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore Maple",
+    "family": "Sapindaceae",
+    "origin": "Central Europe to Southwest Asia",
+    "description": "Large deciduous tree with spreading crown and distinctive flaking bark, tolerant of urban conditions and coastal exposure.",
+    "features": "Five-lobed leaves with irregular teeth and purplish-red fall color. Distinctive flaking bark that reveals orange-brown inner bark."
+  },
+  "acer_rubrum": {
+    "scientific_name": "Acer rubrum",
+    "common_name": "Red Maple",
+    "family": "Sapindaceae",
+    "origin": "Eastern North America",
+    "description": "Medium to large deciduous tree known for its brilliant red fall color and early spring red flowers.",
+    "features": "Three to five-lobed leaves with serrated edges that turn brilliant scarlet in fall. Produces small red flowers in early spring before leaves emerge."
+  },
+  "acer_saccharinum": {
+    "scientific_name": "Acer saccharinum",
+    "common_name": "Silver Maple",
+    "family": "Sapindaceae",
+    "origin": "Eastern North America",
+    "description": "Fast-growing deciduous tree with silvery undersides to its leaves that flash in the breeze.",
+    "features": "Deeply cut, five-lobed leaves with silvery-white undersides. Branches have a graceful, somewhat weeping habit."
+  },
+  "acer_saccharum": {
+    "scientific_name": "Acer saccharum",
+    "common_name": "Sugar Maple",
+    "family": "Sapindaceae",
+    "origin": "Northeastern North America",
+    "description": "Iconic deciduous tree known for its spectacular fall color and as the source of maple syrup.",
+    "features": "Five-lobed leaves with few teeth that turn brilliant orange, yellow, and red in fall. Produces sweet sap that is harvested for maple syrup."
+  },
+  "aesculus_flava": {
+    "scientific_name": "Aesculus flava",
+    "common_name": "Yellow Buckeye",
+    "family": "Sapindaceae",
+    "origin": "Eastern United States",
+    "description": "Large deciduous tree with showy yellow flowers and glossy, palmate compound leaves.",
+    "features": "Compound leaves with 5-7 leaflets arranged like fingers on a hand. Produces upright clusters of yellow flowers followed by smooth (not spiny) seed capsules."
+  },
+  "aesculus_glabra": {
+    "scientific_name": "Aesculus glabra",
+    "common_name": "Ohio Buckeye",
+    "family": "Sapindaceae",
+    "origin": "Central United States",
+    "description": "Medium-sized deciduous tree with palmate compound leaves and greenish-yellow flowers, state tree of Ohio.",
+    "features": "Compound leaves with 5 leaflets that turn orange to red in fall. Produces upright clusters of greenish-yellow flowers and spiny fruit capsules containing shiny brown seeds."
+  },
+  "aesculus_hippocastamon": {
+    "scientific_name": "Aesculus hippocastanum",
+    "common_name": "Horse Chestnut",
+    "family": "Sapindaceae",
+    "origin": "Southeastern Europe",
+    "description": "Large deciduous tree with showy white flower clusters and spiny fruit capsules containing shiny brown seeds.",
+    "features": "Large compound leaves with 5-7 leaflets that radiate from a central point. Produces large, upright clusters of white flowers with yellow and pink markings."
+  },
+  "aesculus_pavi": {
+    "scientific_name": "Aesculus pavia",
+    "common_name": "Red Buckeye",
+    "family": "Sapindaceae",
+    "origin": "Southeastern United States",
+    "description": "Small deciduous tree or large shrub with striking red tubular flowers that attract hummingbirds.",
+    "features": "Palmate compound leaves with 5 leaflets. Produces tubular red flowers in upright clusters during spring, followed by smooth (not spiny) seed capsules."
+  },
+  "ailanthus_altissima": {
+    "scientific_name": "Ailanthus altissima",
+    "common_name": "Tree of Heaven",
+    "family": "Simaroubaceae",
+    "origin": "China",
+    "description": "Fast-growing deciduous tree often considered invasive in North America and Europe, known for its ability to thrive in harsh urban environments.",
+    "features": "Large compound leaves with 11-41 leaflets that give off a strong, unpleasant odor when crushed. Produces clusters of reddish-green fruits with twisted wings."
+  },
+  "albizia_julibrissin": {
+    "scientific_name": "Albizia julibrissin",
+    "common_name": "Mimosa Tree",
+    "family": "Fabaceae",
+    "origin": "Southwest and Eastern Asia",
+    "description": "Deciduous tree with umbrella-like canopy and fern-like compound leaves. Known for its showy pink pom-pom like flowers that bloom in summer.",
+    "features": "Feathery, bipinnate leaves that fold at night or when touched. Produces fluffy pink flowers with silky thread-like stamens that resemble pom-poms."
+  },
+  "amelanchier_arborea": {
+    "scientific_name": "Amelanchier arborea",
+    "common_name": "Downy Serviceberry",
+    "family": "Rosaceae",
+    "origin": "Eastern North America",
+    "description": "Small deciduous tree or large shrub valued for its early spring white flowers, edible berries, and fall color.",
+    "features": "Smooth gray bark, oval leaves with fine teeth that emerge with downy hairs. White star-shaped flowers in early spring followed by edible purple-black berries."
+  },
+  "amelanchier_canadensis": {
+    "scientific_name": "Amelanchier canadensis",
+    "common_name": "Shadblow Serviceberry",
+    "family": "Rosaceae",
+    "origin": "Eastern North America",
+    "description": "Multi-stemmed deciduous tree or shrub known for early spring flowers, edible fruits, and autumn color.",
+    "features": "Oval leaves with fine teeth, showy white flowers in spring, and purple-black edible berries in summer. Smooth gray bark with vertical striping."
+  },
+  "amelanchier_laevis": {
+    "scientific_name": "Amelanchier laevis",
+    "common_name": "Allegheny Serviceberry",
+    "family": "Rosaceae",
+    "origin": "Eastern North America",
+    "description": "Small deciduous tree with showy white flowers in early spring, followed by edible purple-black fruits.",
+    "features": "Young leaves emerge with reddish-purple hue, distinguishing it from other serviceberries. Produces clusters of white flowers followed by sweet, edible berries."
+  },
+  "asimina_triloba": {
+    "scientific_name": "Asimina triloba",
+    "common_name": "Pawpaw",
+    "family": "Annonaceae",
+    "origin": "Eastern United States",
+    "description": "Small understory tree that produces the largest edible fruit native to North America, with tropical-looking leaves.",
+    "features": "Large, drooping oblong leaves that turn bright yellow in fall. Produces unusual maroon flowers that give way to large, custard-like fruits with a flavor resembling banana and mango."
+  },
+  "betula_alleghaniensis": {
+    "scientific_name": "Betula alleghaniensis",
+    "common_name": "Yellow Birch",
+    "family": "Betulaceae",
+    "origin": "Northeastern North America",
+    "description": "Medium to large deciduous tree known for its golden, peeling bark and wintergreen-scented twigs.",
+    "features": "Yellowish-bronze bark that peels in thin, curly, horizontal strips. Leaves are ovate with doubly serrated margins that turn golden yellow in fall."
+  },
+  "betula_jacqemontii": {
+    "scientific_name": "Betula utilis var. jacquemontii",
+    "common_name": "Himalayan Birch",
+    "family": "Betulaceae",
+    "origin": "Himalayas",
+    "description": "Medium-sized deciduous tree prized for its stunning white bark that remains brilliant even as the tree matures.",
+    "features": "Brilliant white bark that does not peel extensively. Ovate, sharply-pointed leaves with serrated edges that turn yellow in fall."
+  },
+  "betula_lenta": {
+    "scientific_name": "Betula lenta",
+    "common_name": "Sweet Birch",
+    "family": "Betulaceae",
+    "origin": "Eastern North America",
+    "description": "Medium-sized deciduous tree with dark, cherry-like bark and wintergreen-scented twigs and bark.",
+    "features": "Dark, shiny bark that resembles cherry tree bark. Twigs and inner bark contain oil of wintergreen, giving a distinctive minty scent when crushed."
+  },
+  "betula_nigra": {
+    "scientific_name": "Betula nigra",
+    "common_name": "River Birch",
+    "family": "Betulaceae",
+    "origin": "Eastern United States",
+    "description": "Fast-growing deciduous tree with attractive exfoliating bark that is resistant to bronze birch borer.",
+    "features": "Distinctive peeling salmon-pink to reddish-brown bark. Diamond-shaped, double-toothed leaves turn yellow in fall."
+  },
+  "betula_populifolia": {
+    "scientific_name": "Betula populifolia",
+    "common_name": "Gray Birch",
+    "family": "Betulaceae",
+    "origin": "Northeastern North America",
+    "description": "Small to medium deciduous tree often growing in clumps, with chalky white bark marked with triangular black patches.",
+    "features": "Chalky-white bark with distinctive black triangular patches at branch junctions. Triangular leaves with long, tapering tips that tremble in the wind."
+  },
+  "broussonettia_papyrifera": {
+    "scientific_name": "Broussonetia papyrifera",
+    "common_name": "Paper Mulberry",
+    "family": "Moraceae",
+    "origin": "East Asia",
+    "description": "Deciduous tree historically used for paper-making in Asia, with rough-textured leaves and orange spherical fruits.",
+    "features": "Rough, sandpaper-textured leaves that may be unlobed, mitten-shaped, or with multiple lobes. Separate male and female trees, with females producing orange, spherical fruits."
+  },
+  "carpinus_betulus": {
+    "scientific_name": "Carpinus betulus",
+    "common_name": "European Hornbeam",
+    "family": "Betulaceae",
+    "origin": "Europe to Iran",
+    "description": "Medium-sized deciduous tree with distinctive fluted trunk and dense foliage, commonly used for formal hedges and screens.",
+    "features": "Smooth, gray bark with muscle-like fluting. Doubly serrated leaves with deep veins that create a pleated appearance."
+  },
+  "carpinus_caroliniana": {
+    "scientific_name": "Carpinus caroliniana",
+    "common_name": "American Hornbeam",
+    "family": "Betulaceae",
+    "origin": "Eastern North America",
+    "description": "Small understory tree with smooth, muscle-like bark and blue-gray color, also known as Musclewood or Blue Beech.",
+    "features": "Smooth, sinewy, gray-blue bark that resembles flexed muscles. Doubly serrated leaves turn orange, red, and yellow in fall."
+  },
+  "carya_cordiformis": {
+    "scientific_name": "Carya cordiformis",
+    "common_name": "Bitternut Hickory",
+    "family": "Juglandaceae",
+    "origin": "Eastern North America",
+    "description": "Large deciduous tree with distinctive sulfur-yellow buds and compound leaves, producing bitter nuts.",
+    "features": "Compound leaves with 7-11 leaflets. Distinctive bright sulfur-yellow winter buds and thin-shelled bitter nuts within a thin husk."
+  },
+  "carya_glabra": {
+    "scientific_name": "Carya glabra",
+    "common_name": "Pignut Hickory",
+    "family": "Juglandaceae",
+    "origin": "Eastern United States",
+    "description": "Large deciduous tree with compound leaves and small, pear-shaped nuts with thin husks.",
+    "features": "Compound leaves with 5-7 leaflets that turn golden yellow in fall. Produces small, pear-shaped or oval nuts with thin husks that split only partially when ripe."
+  },
+  "carya_ovata": {
+    "scientific_name": "Carya ovata",
+    "common_name": "Shagbark Hickory",
+    "family": "Juglandaceae",
+    "origin": "Eastern North America",
+    "description": "Large deciduous tree easily recognized by its shaggy, peeling bark and edible nuts.",
+    "features": "Distinctive shaggy bark that peels away in long strips, giving the tree its name. Compound leaves with 5 (rarely 7) leaflets and edible nuts enclosed in thick husks."
+  },
+  "carya_tomentosa": {
+    "scientific_name": "Carya tomentosa",
+    "common_name": "Mockernut Hickory",
+    "family": "Juglandaceae",
+    "origin": "Eastern United States",
+    "description": "Large deciduous tree with compound leaves and thick-shelled nuts, known for its strong wood used in tool handles.",
+    "features": "Compound leaves with 7-9 leaflets, hairy on the underside. Produces nuts with very thick shells inside thick husks, making them difficult to crack."
+  },
+  "castanea_dentata": {
+    "scientific_name": "Castanea dentata",
+    "common_name": "American Chestnut",
+    "family": "Fagaceae",
+    "origin": "Eastern North America",
+    "description": "Once-dominant forest tree decimated by chestnut blight in the early 1900s, now surviving mostly as understory sprouts.",
+    "features": "Long, lance-shaped leaves with distinctive curved teeth along the edges. Produces sweet, edible nuts enclosed in spiny burs."
+  },
+  "catalpa_bignonioides": {
+    "scientific_name": "Catalpa bignonioides",
+    "common_name": "Southern Catalpa",
+    "family": "Bignoniaceae",
+    "origin": "Southeastern United States",
+    "description": "Medium-sized deciduous tree known for its large heart-shaped leaves, showy white flowers, and long bean-like seed pods.",
+    "features": "Massive heart-shaped leaves up to 12 inches wide. Clusters of white, bell-shaped flowers with purple and yellow spots inside, followed by slender bean-like pods up to 20 inches long."
+  },
+  "catalpa_speciosa": {
+    "scientific_name": "Catalpa speciosa",
+    "common_name": "Northern Catalpa",
+    "family": "Bignoniaceae",
+    "origin": "Midwestern United States",
+    "description": "Large deciduous tree with huge heart-shaped leaves, showy white flowers, and long, pencil-thin seed pods.",
+    "features": "Enormous heart-shaped leaves arranged in whorls of three. White orchid-like flowers with purple and yellow spots, followed by slender, bean-like seed pods that can reach 2 feet in length."
+  },
+  "cedrus_atlantica": {
+    "scientific_name": "Cedrus atlantica",
+    "common_name": "Atlas Cedar",
+    "family": "Pinaceae",
+    "origin": "Atlas Mountains of Algeria and Morocco",
+    "description": "Large, majestic evergreen conifer with a pyramidal form when young, becoming flat-topped with age.",
+    "features": "Stiff, bluish-green or silvery-blue needles in clusters on short spur branches. Produces barrel-shaped upright cones that disintegrate at maturity."
+  },
+  "cedrus_deodara": {
+    "scientific_name": "Cedrus deodara",
+    "common_name": "Deodar Cedar",
+    "family": "Pinaceae",
+    "origin": "Western Himalayas",
+    "description": "Large evergreen conifer with graceful, drooping branches and blue-green needles.",
+    "features": "Drooping leader and branch tips give a weeping appearance. Needles are longer than other cedars, arranged in clusters on spur branches."
+  },
+  "cedrus_libani": {
+    "scientific_name": "Cedrus libani",
+    "common_name": "Cedar of Lebanon",
+    "family": "Pinaceae",
+    "origin": "Mountains of Lebanon, Syria, and Turkey",
+    "description": "Majestic evergreen conifer with historical significance, developing a distinctive flat-topped crown with age.",
+    "features": "Dark green needles in clusters on spur branches. Develops a characteristic flat-topped, layered crown with horizontally spreading branches as it matures."
+  },
+  "celtis_occidentalis": {
+    "scientific_name": "Celtis occidentalis",
+    "common_name": "Hackberry",
+    "family": "Cannabaceae",
+    "origin": "North America",
+    "description": "Medium to large deciduous tree with distinctive warty bark and asymmetrical leaves, highly adaptable to urban conditions.",
+    "features": "Distinctive warty, corky projections on gray bark. Leaves are asymmetrical at the base and feel sandpaper-rough on top. Produces small, dark purple drupes that are sweet and edible."
+  },
+  "celtis_tenuifolia": {
+    "scientific_name": "Celtis tenuifolia",
+    "common_name": "Dwarf Hackberry",
+    "family": "Cannabaceae",
+    "origin": "Eastern and Central United States",
+    "description": "Small deciduous tree or large shrub with warty bark and smaller leaves than the common hackberry.",
+    "features": "Warty, gray bark similar to common hackberry but smaller in all aspects. Leaves are asymmetrical at the base and produces small, orange-red to purple fruits."
+  },
+  "cercidiphyllum_japonicum": {
+    "scientific_name": "Cercidiphyllum japonicum",
+    "common_name": "Katsura Tree",
+    "family": "Cercidiphyllaceae",
+    "origin": "Japan and China",
+    "description": "Medium to large deciduous tree with heart-shaped leaves that emit a sweet fragrance when falling in autumn, reminiscent of cotton candy or burnt sugar.",
+    "features": "Heart-shaped leaves emerge reddish-purple in spring, mature to bluish-green in summer, and turn yellow to apricot in fall. Separate male and female trees, with females producing small banana-shaped pods."
+  },
+  "cercis_canadensis": {
+    "scientific_name": "Cercis canadensis",
+    "common_name": "Eastern Redbud",
+    "family": "Fabaceae",
+    "origin": "Eastern North America",
+    "description": "Small deciduous tree known for its stunning display of magenta-pink flowers that bloom directly on the branches in early spring before the leaves emerge.",
+    "features": "Heart-shaped leaves that emerge after the flowers. Produces clusters of pea-like magenta-pink flowers all along the branches, even on the trunk (cauliflory)."
+  },
+  "chamaecyparis_pisifera": {
+    "scientific_name": "Chamaecyparis pisifera",
+    "common_name": "Sawara Cypress",
+    "family": "Cupressaceae",
+    "origin": "Japan",
+    "description": "Evergreen conifer with numerous cultivars featuring diverse growth habits, foliage types, and colors.",
+    "features": "Scale-like foliage in flattened sprays. Many cultivars exist with golden, blue, or thread-like foliage and varying growth forms from dwarf to tall pyramidal."
+  },
+  "chamaecyparis_thyoides": {
+    "scientific_name": "Chamaecyparis thyoides",
+    "common_name": "Atlantic White Cedar",
+    "family": "Cupressaceae",
+    "origin": "Eastern United States",
+    "description": "Slender evergreen conifer native to coastal wetlands, with blue-green foliage and fibrous, reddish-brown bark.",
+    "features": "Flattened sprays of blue-green, scale-like foliage that may turn bronzy in winter. Produces small, bluish, berry-like cones about 1/4 inch in diameter."
+  },
+  "chionanthus_retusus": {
+    "scientific_name": "Chionanthus retusus",
+    "common_name": "Chinese Fringe Tree",
+    "family": "Oleaceae",
+    "origin": "China, Korea, Japan",
+    "description": "Small deciduous tree or large shrub covered with showy, white, fringe-like flowers in late spring.",
+    "features": "Leathery, dark green leaves and exfoliating bark that reveals an orange-brown inner layer. Produces cloud-like clusters of fragrant white flowers with strap-like petals."
+  },
+  "chionanthus_virginicus": {
+    "scientific_name": "Chionanthus virginicus",
+    "common_name": "White Fringe Tree",
+    "family": "Oleaceae",
+    "origin": "Southeastern United States",
+    "description": "Small deciduous tree or large shrub noted for its cloud-like display of fragrant white flowers in spring.",
+    "features": "Loose, airy clusters of fragrant white flowers with thin, ribbon-like petals that give a fringe-like appearance. Produces blue-black olive-like fruits on female plants."
+  },
+  "cladrastis_lutea": {
+    "scientific_name": "Cladrastis kentukea",
+    "common_name": "Yellowwood",
+    "family": "Fabaceae",
+    "origin": "Southeastern United States",
+    "description": "Medium-sized deciduous tree with smooth gray bark and pendulous clusters of fragrant white flowers.",
+    "features": "Smooth, gray bark resembling beech. Compound leaves turn bright yellow in fall. Produces dramatic, pendulous clusters of fragrant white flowers similar to wisteria."
+  },
+  "cornus_florida": {
+    "scientific_name": "Cornus florida",
+    "common_name": "Flowering Dogwood",
+    "family": "Cornaceae",
+    "origin": "Eastern North America",
+    "description": "Small deciduous tree famous for its showy white or pink bracts surrounding small central flowers in spring.",
+    "features": "Four showy white or pink petal-like bracts surrounding the true flowers in spring. Red fruits in fall and distinctive alligator-skin textured bark on mature trees."
+  },
+  "cornus_kousa": {
+    "scientific_name": "Cornus kousa",
+    "common_name": "Kousa Dogwood",
+    "family": "Cornaceae",
+    "origin": "Japan, Korea, China",
+    "description": "Small deciduous tree that flowers about a month later than flowering dogwood, with pointed bracts and raspberry-like red fruits.",
+    "features": "Star-shaped, pointed white bracts appear after the leaves emerge. Produces unusual raspberry-like red fruits and exhibits exfoliating mottled bark with age."
+  },
+  "cornus_mas": {
+    "scientific_name": "Cornus mas",
+    "common_name": "Cornelian Cherry",
+    "family": "Cornaceae",
+    "origin": "Southern Europe to Western Asia",
+    "description": "Large shrub or small tree that blooms very early in spring with clusters of small yellow flowers, followed by edible cherry-like fruits.",
+    "features": "Small yellow flowers in late winter before the leaves emerge. Produces oblong, cherry-like red fruits that are edible and traditionally used for preserves and syrups."
+  },
+  "corylus_colurna": {
+    "scientific_name": "Corylus colurna",
+    "common_name": "Turkish Hazel",
+    "family": "Betulaceae",
+    "origin": "Southeastern Europe to Western Asia",
+    "description": "Medium-sized deciduous tree with pyramidal form, deeply furrowed cork-like bark, and edible hazelnuts.",
+    "features": "Distinctive corky, gray-brown bark with deep furrows. Produces edible hazelnuts enclosed in deeply cut, bristly husks."
+  },
+  "crataegus_crus-galli": {
+    "scientific_name": "Crataegus crus-galli",
+    "common_name": "Cockspur Hawthorn",
+    "family": "Rosaceae",
+    "origin": "Eastern North America",
+    "description": "Small deciduous tree with glossy leaves, white flowers, red fruits, and fearsome thorns.",
+    "features": "Glossy, leathery leaves that turn orange-red in fall. Produces clusters of white flowers followed by bright red fruits that persist into winter. Armed with long, straight thorns up to 3 inches long."
+  },
+  "crataegus_laevigata": {
+    "scientific_name": "Crataegus laevigata",
+    "common_name": "English Hawthorn",
+    "family": "Rosaceae",
+    "origin": "Europe",
+    "description": "Small deciduous tree with lobed leaves, thorny branches, and clusters of white or pink flowers followed by red fruits.",
+    "features": "Leaves with 3-5 shallow lobes. Produces white or pink flowers in spring, followed by bright red fruits. Branches armed with sharp thorns."
+  },
+  "ginkgo_biloba": {
+    "scientific_name": "Ginkgo biloba",
+    "common_name": "Maidenhair Tree",
+    "family": "Ginkgoaceae",
+    "origin": "Eastern China",
+    "description": "Ancient deciduous tree with distinctive fan-shaped leaves, extremely resistant to pests, diseases, and urban pollution.",
+    "features": "Unique fan-shaped leaves with parallel veins that turn brilliant yellow in fall. Dioecious species with separate male and female trees (female trees produce malodorous fruits)."
+  },
+  "liquidambar_styraciflua": {
+    "scientific_name": "Liquidambar styraciflua",
+    "common_name": "American Sweetgum",
+    "family": "Altingiaceae",
+    "origin": "Eastern North America, Mexico and Central America",
+    "description": "Medium to large deciduous tree known for its star-shaped leaves with spectacular fall color and spiky seed balls.",
+    "features": "Glossy, star-shaped leaves with five pointed lobes that turn vibrant purple, red, orange, and yellow in fall. Produces hard, spiny seed balls that persist through winter."
+  },
+  "magnolia_grandiflora": {
+    "scientific_name": "Magnolia grandiflora",
+    "common_name": "Southern Magnolia",
+    "family": "Magnoliaceae",
+    "origin": "Southeastern United States",
+    "description": "Majestic evergreen tree with large, fragrant white flowers and glossy, leathery leaves.",
+    "features": "Large, glossy dark green leaves with rusty-brown undersides. Produces spectacular fragrant white flowers up to 12 inches across throughout summer."
+  },
+  "metasequoia_glyptostroboides": {
+    "scientific_name": "Metasequoia glyptostroboides",
+    "common_name": "Dawn Redwood",
+    "family": "Cupressaceae",
+    "origin": "Central China",
+    "description": "Deciduous conifer once thought extinct until discovered alive in 1944. Fast-growing with feathery foliage and distinctive buttressed trunk.",
+    "features": "Soft, feathery foliage arranged in opposite pairs that turns russet-brown before dropping in fall. Develops a buttressed base and furrowed reddish-brown bark with age."
+  },
+  "picea_abies": {
+    "scientific_name": "Picea abies",
+    "common_name": "Norway Spruce",
+    "family": "Pinaceae",
+    "origin": "Europe (Northern, Central and Eastern)",
+    "description": "Large, fast-growing evergreen conifer with distinctive drooping branchlets, commonly used as Christmas trees and windbreaks.",
+    "features": "Dark green needles and large pendulous cones up to 6 inches long. Branches spread horizontally with distinctive drooping branchlets."
+  },
+  "picea_orientalis": {
+    "scientific_name": "Picea orientalis",
+    "common_name": "Oriental Spruce",
+    "family": "Pinaceae",
+    "origin": "Caucasus Mountains, northeastern Turkey",
+    "description": "Slow-growing evergreen conifer with dense, compact growth and short, glossy dark green needles.",
+    "features": "Very short, glossy dark green needles densely covering the branches. Forms a neat pyramidal shape with somewhat pendulous branches."
+  },
+  "picea_pungens": {
+    "scientific_name": "Picea pungens",
+    "common_name": "Colorado Blue Spruce",
+    "family": "Pinaceae",
+    "origin": "Rocky Mountains of North America",
+    "description": "Evergreen conifer known for its distinctive blue-gray foliage and perfect pyramidal form.",
+    "features": "Stiff, sharp needles ranging in color from green to intense silvery-blue. Produces cylindrical light brown cones and maintains a perfect pyramidal shape."
+  },
+  "pinus_strobus": {
+    "scientific_name": "Pinus strobus",
+    "common_name": "Eastern White Pine",
+    "family": "Pinaceae",
+    "origin": "Eastern North America",
+    "description": "Tall, fast-growing evergreen with soft, blue-green needles in bundles of five.",
+    "features": "Soft, flexible needles and cylindrical cones. Develops distinctive horizontal branching pattern with age."
+  },
+  "quercus_rubra": {
+    "scientific_name": "Quercus rubra",
+    "common_name": "Northern Red Oak",
+    "family": "Fagaceae",
+    "origin": "Eastern and Central North America",
+    "description": "Fast-growing deciduous oak with excellent shade properties and fall color.",
+    "features": "Leaves with 7-11 pointed lobes that turn russet-red in autumn. Straight trunk with dark, furrowed bark."
+  },
+  "robinia_pseudo-acacia": {
+    "scientific_name": "Robinia pseudoacacia",
+    "common_name": "Black Locust",
+    "family": "Fabaceae",
+    "origin": "Eastern United States",
+    "description": "Fast-growing deciduous tree with fragrant white flowers and compound leaves, known for its extremely durable wood.",
+    "features": "Compound leaves with oval leaflets that close at night or during rain. Produces hanging clusters of fragrant white pea-like flowers followed by flat, brown seed pods."
+  },
+  "salix_babylonica": {
+    "scientific_name": "Salix babylonica",
+    "common_name": "Weeping Willow",
+    "family": "Salicaceae",
+    "origin": "Northern China",
+    "description": "Medium to large deciduous tree with distinctive pendulous branches that create a graceful, weeping appearance.",
+    "features": "Long, narrow leaves on slender, flexible branches that sweep downward, sometimes reaching the ground. Fast-growing with yellow-brown bark."
+  },
+  "salix_nigra": {
+    "scientific_name": "Salix nigra",
+    "common_name": "Black Willow",
+    "family": "Salicaceae",
+    "origin": "Eastern North America",
+    "description": "Largest native North American willow species, typically found along streams, lakes, and wetlands. Fast-growing and important for stabilizing streambanks and providing wildlife habitat.",
+    "features": "Long, narrow, finely serrated leaves with yellowish-green color. Dark, rough, fissured bark that becomes black with age. Produces catkins in spring. Wood is lightweight, soft, and weak but resistant to splitting."
+  },
+  "tsuga_canadensis": {
+    "scientific_name": "Tsuga canadensis",
+    "common_name": "Eastern Hemlock",
+    "family": "Pinaceae",
+    "origin": "Eastern North America",
+    "description": "Graceful evergreen conifer with small, flat needles and delicate drooping branches, creates dense shade.",
+    "features": "Short, flat needles with two white bands on the underside. Small cones and feathery branch tips that droop gracefully. Bark becomes deeply furrowed with age."
+  },
+  "ulmus_americana": {
+    "scientific_name": "Ulmus americana",
+    "common_name": "American Elm",
+    "family": "Ulmaceae",
+    "origin": "Eastern North America",
+    "description": "Once-dominant street tree with distinctive vase-shaped form, severely affected by Dutch elm disease.",
+    "features": "Classic vase-shaped crown with arching branches. Doubly serrated, asymmetrical leaves and distinctive flaky bark with alternating light and dark layers."
+  },
+  "zelkova_serrata": {
+    "scientific_name": "Zelkova serrata",
+    "common_name": "Japanese Zelkova",
+    "family": "Ulmaceae",
+    "origin": "Japan, Taiwan, eastern China",
+    "description": "Deciduous tree often planted as an elm substitute, with vase-shaped crown and serrated leaves.",
+    "features": "Elm-like leaves with serrated edges that turn bronze, red, or orange in fall. Smooth gray bark when young that develops vertical patches with age."
+  }
+} 

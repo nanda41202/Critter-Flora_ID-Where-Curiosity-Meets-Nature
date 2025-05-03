@@ -1,0 +1,158 @@
+{
+    "rice_leaf_roller": {
+        "Scientific Name": "Cnaphalocrocis medinalis",
+        "Size": "Wingspan 15-20 mm (0.6-0.8 in)",
+        "Habitat": "Rice fields and wetland areas",
+        "Diet": "Rice leaves and stems",
+        "Lifespan": "4-5 weeks (adult moth)",
+        "Description": "Small yellow-brown moth with distinctive wavy brown lines across wings. Larvae are pale green with a brown head, and roll rice leaves to create shelter while feeding.",
+        "Agricultural Impact": "Major rice pest that can reduce yields by 5-60% depending on infestation level",
+        "Control Methods": "Biological controls (parasitic wasps), chemical insecticides, and resistant rice varieties",
+        "Interesting Fact": "The larvae tie leaf margins with silk threads to form leaf rolls that serve as protective feeding chambers."
+    },
+    "rice_leaf_caterpillar": {
+        "Scientific Name": "Naranga aenescens",
+        "Size": "Wingspan 20-25 mm (0.8-1.0 in)",
+        "Habitat": "Rice paddies and nearby vegetation",
+        "Diet": "Rice leaves, occasionally other grasses",
+        "Lifespan": "30-45 days (complete lifecycle)",
+        "Description": "Adult is a small bronze-colored moth. Larvae are green with longitudinal stripes and can reach 25mm in length. They consume leaf tissue between veins, creating distinctive white streaks.",
+        "Agricultural Impact": "Moderate pest that can cause up to 35% yield reduction in severe cases",
+        "Control Methods": "Cultural practices (water management), chemical controls, and natural enemies",
+        "Interesting Fact": "The caterpillars are primarily nocturnal feeders, hiding in soil cracks or folded leaves during daylight hours."
+    },
+    "paddy_stem_maggot": {
+        "Scientific Name": "Chlorops oryzae",
+        "Habitat": "Paddy fields, particularly in humid regions",
+        "Diet": "Rice stem tissue",
+        "Lifespan": "25-30 days (complete lifecycle)",
+        "Weight": "Not applicable",
+        "Height": "Not applicable",
+        "Size": "Adult: 3-4 mm (0.12-0.16 in)",
+        "Interesting Fact": "A single female can lay up to 100 eggs, typically depositing them individually on different plants to maximize survival chance.",
+        "Description": "Adult is a small yellow fly with black stripes on the thorax. Larvae are white-yellowish, tapered maggots that tunnel inside rice stems.",
+        "Agricultural Impact": "Causes 'dead heart' symptom in young plants and white empty panicles ('white head') in mature plants",
+        "Control Methods": "Early planting, field sanitation, and targeted insecticides"
+    },
+    "asiatic_rice_borer": {
+        "Scientific Name": "Chilo suppressalis",
+        "Size": "Wingspan 20-30 mm (0.8-1.2 in)",
+        "Habitat": "Rice fields and surrounding grassy areas",
+        "Diet": "Rice stems and occasionally other grass species",
+        "Lifespan": "4-8 weeks depending on climate conditions",
+        "Description": "Adult is a straw-colored moth with small dark spots on forewings. Larvae are creamy white with five brown longitudinal stripes and a brown head.",
+        "Agricultural Impact": "Major pest that can cause yield losses of 20-80% in severe infestations",
+        "Control Methods": "Pheromone traps, biological controls (Trichogramma wasps), resistant varieties",
+        "Interesting Fact": "Larvae can survive adverse conditions by entering diapause (suspended development) during winter months."
+    },
+    "yellow_rice_borer": {
+        "Scientific Name": "Scirpophaga incertulas",
+        "Size": "Wingspan 20-25 mm (0.8-1.0 in)",
+        "Habitat": "Rice fields and nearby aquatic vegetation",
+        "Diet": "Rice stems, particularly during vegetative and reproductive stages",
+        "Lifespan": "40-50 days (complete lifecycle)",
+        "Description": "Adults are white or yellowish-white moths with a distinctive yellow tuft at the tip of the female's abdomen. Larvae are yellowish-white with a brown head.",
+        "Agricultural Impact": "One of the most destructive rice pests, causing 'dead hearts' and 'white heads'",
+        "Control Methods": "Synchronized planting, biological controls, and judicious use of insecticides",
+        "Interesting Fact": "Female moths cover their egg masses with yellow scales from their abdominal tuft, protecting eggs from natural enemies and harsh weather."
+    },
+    "rice_gall_midge": {
+        "Scientific Name": "Orseolia oryzae",
+        "Size": "Adult: 4-5 mm (0.16-0.20 in)",
+        "Habitat": "Rice fields with high humidity",
+        "Diet": "Rice leaf sheaths and growing points",
+        "Lifespan": "15-25 days depending on environmental conditions",
+        "Description": "Adults resemble mosquitoes with long legs and reddish-brown bodies. Larvae are small, white or pink maggots that feed inside the plant tissues.",
+        "Agricultural Impact": "Causes characteristic tubular 'silver shoot' or 'onion leaf' galls, severely reducing yield",
+        "Control Methods": "Resistant varieties, early planting, and proper water management",
+        "Interesting Fact": "The larvae cause plants to form hollow tube-like galls called 'silver shoots' that prevent the emergence of panicles, effectively sterilizing the plant."
+    },
+    "rice_stemfly": {
+        "Scientific Name": "Atherigona oryzae",
+        "Size": "Adult: 3-5 mm (0.12-0.20 in)",
+        "Habitat": "Rice paddies, particularly in rainfed and upland fields",
+        "Diet": "Central shoots of young rice plants",
+        "Lifespan": "3-4 weeks (complete lifecycle)",
+        "Description": "Adults are small gray-brown flies resembling house flies. Larvae are cream-colored maggots that feed inside rice stems.",
+        "Agricultural Impact": "Causes 'dead heart' in young plants, requiring re-transplanting in severe cases",
+        "Control Methods": "Early and synchronized planting, nitrogen management, and insecticides",
+        "Interesting Fact": "The maggots can move from one damaged plant to neighboring plants, spreading the infestation across the field."
+    },
+    "brown_plant_hopper": {
+        "Scientific Name": "Nilaparvata lugens",
+        "Size": "Adult: 3-4 mm (0.12-0.16 in)",
+        "Habitat": "Rice ecosystems, particularly in irrigated lowland fields",
+        "Diet": "Rice plant sap from stems and leaf sheaths",
+        "Lifespan": "25-30 days (adult females)",
+        "Description": "Adults are brown to blackish-brown with a characteristic body shape that's wider at the rear. Nymphs are cream to light brown.",
+        "Agricultural Impact": "Major pest causing 'hopper burn' where plants turn yellow and dry up; also transmits viral diseases",
+        "Control Methods": "Resistant varieties, natural enemies, insecticide management to prevent resistance",
+        "Interesting Fact": "They can migrate long distances on wind currents, allowing them to invade new rice-growing areas rapidly."
+    },
+    "white_backed_plant_hopper": {
+        "Scientific Name": "Sogatella furcifera",
+        "Size": "Adult: 3.5-4 mm (0.14-0.16 in)",
+        "Habitat": "Rice fields, particularly in warm and humid regions",
+        "Diet": "Rice plant sap, primarily from leaf sheaths and stems",
+        "Lifespan": "3-4 weeks (adult)",
+        "Description": "Adults have a distinctive white stripe running down the middle of the back (thorax and abdomen). Males are black while females are typically straw-colored.",
+        "Agricultural Impact": "Causes stunting, reduced tillering, and delayed panicle emergence",
+        "Control Methods": "Balanced fertilizer application, resistant varieties, and conservation of natural enemies",
+        "Interesting Fact": "Adults are capable of long-distance migration, sometimes traveling hundreds of kilometers on monsoon winds."
+    },
+    "small_brown_plant_hopper": {
+        "Scientific Name": "Laodelphax striatellus",
+        "Size": "Adult: 2-3 mm (0.08-0.12 in)",
+        "Habitat": "Rice fields and grassy areas",
+        "Diet": "Plant sap from rice and other grasses",
+        "Lifespan": "30-40 days under optimal conditions",
+        "Description": "Smaller than other rice planthoppers, with brown coloration and darker markings. Males and females show distinct dimorphism in wing development.",
+        "Agricultural Impact": "Vector for rice stripe virus and rice black-streaked dwarf virus",
+        "Control Methods": "Vector management through insecticides, resistant varieties, and field sanitation",
+        "Interesting Fact": "This species can produce both fully-winged (macropterous) and short-winged (brachypterous) forms depending on environmental conditions and population density."
+    },
+    "corn_borer": {
+        "Scientific Name": "Ostrinia furnacalis (Asian corn borer)",
+        "Size": "Wingspan: 20-30 mm (0.8-1.2 in)",
+        "Habitat": "Corn fields and areas with host plants",
+        "Diet": "Primarily corn tissues, also feeds on other crops like cotton, sorghum",
+        "Lifespan": "30-50 days (complete lifecycle)",
+        "Description": "Adult moths are pale brown to yellow-brown with wavy lines on wings. Larvae are cream to pinkish with dark spots and a brown head.",
+        "Agricultural Impact": "Major corn pest causing yield losses up to 80% in heavy infestations",
+        "Control Methods": "Bt corn varieties, biological control (Trichogramma wasps), cultural practices",
+        "Interesting Fact": "The larvae can enter diapause to survive winter, emerging in spring to continue their lifecycle when conditions improve."
+    },
+    "army_worm": {
+        "Scientific Name": "Mythimna separata (Oriental armyworm)",
+        "Size": "Wingspan: 35-50 mm (1.4-2.0 in)",
+        "Habitat": "Grasslands, cereal crop fields, and pastures",
+        "Diet": "Leaves and stems of grasses and cereal crops",
+        "Lifespan": "30-40 days (complete lifecycle)",
+        "Description": "Adults are medium-sized moths with brownish-gray forewings and pale hindwings. Larvae are smooth, cylindrical caterpillars with longitudinal stripes.",
+        "Agricultural Impact": "Sporadic but severe pest that can cause complete defoliation of crops",
+        "Control Methods": "Early detection, chemical control during early larval stages, natural enemies",
+        "Interesting Fact": "Named for their behavior of moving en masse like an army from one field to another when food becomes scarce."
+    },
+    "aphids": {
+        "Scientific Name": "Various species including Aphis gossypii, Myzus persicae",
+        "Size": "1-3 mm (0.04-0.12 in)",
+        "Habitat": "Wide range of crops and wild plants",
+        "Diet": "Plant sap from phloem tissues",
+        "Lifespan": "20-30 days under optimal conditions",
+        "Description": "Small, soft-bodied insects varying in color from green, yellow, black, or brown. Most have a pair of tube-like structures (cornicles) projecting from their abdomen.",
+        "Agricultural Impact": "Damage plants by sucking sap and transmitting viral diseases",
+        "Control Methods": "Biological control (ladybugs, lacewings), insecticidal soaps, and systemic insecticides",
+        "Interesting Fact": "Aphids can reproduce asexually through parthenogenesis, with females giving birth to live young without mating."
+    },
+    "thrips": {
+        "Scientific Name": "Various species including Thrips palmi, Frankliniella occidentalis",
+        "Size": "0.5-2 mm (0.02-0.08 in)",
+        "Habitat": "Found on flowers, leaves, and under bark of many plants",
+        "Diet": "Plant cells, pollen, and small arthropods (predatory species)",
+        "Lifespan": "2-4 weeks (adult)",
+        "Description": "Tiny, slender insects with fringed wings. Colors range from yellow to dark brown or black depending on species.",
+        "Agricultural Impact": "Cause stippling, silvering, and scarring of leaves, flowers, and fruits; vector for plant viruses",
+        "Control Methods": "Insecticidal soaps, neem extracts, biological controls (predatory mites)",
+        "Interesting Fact": "Their unique asymmetrical mouthparts work like a punch and suck mechanism, where one mandible punches a hole in plant tissue and the maxillae form a tube to suck out the contents."
+    }
+} 
