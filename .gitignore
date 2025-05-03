@@ -23,14 +23,14 @@ ENV/
 instance/
 
 # Database
-*.db
-*.sqlite3
-*.sql
+# *.db
+# *.sqlite3
+# *.sql
 
 # Model files (can be large)
-*.h5
-*.pb
-*.tflite
+# *.h5
+# *.pb
+# *.tflite
 
 # Uploaded and temporary files
 uploads/*
@@ -53,7 +53,7 @@ logs/
 *.log
 
 # Exclude specific directories
-datasets/
-tf-env/
+# datasets/
+# tf-env/
 __pycache__/
 .vscode/ 
