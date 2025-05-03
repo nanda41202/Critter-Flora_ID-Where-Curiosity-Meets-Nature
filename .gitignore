@@ -25,6 +25,7 @@ instance/
 # Database
 *.db
 *.sqlite3
+*.sql
 
 # Model files (can be large)
 *.h5
@@ -49,4 +50,10 @@ Thumbs.db
 
 # Logs
 logs/
-*.log 
+*.log
+
+# Exclude specific directories
+datasets/
+tf-env/
+__pycache__/
+.vscode/ 
