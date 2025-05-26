@@ -114,7 +114,7 @@ def send_email(to_email, subject, message):
                 
                 <p>Start exploring nature 🔍 with this password and discover the amazing world around you!</p>
                 <p>Don't forget to change your password after logging in.</p>
-                <p>Happy exploring!<br>The Critter & Flora 🌱 BY Lokesh</p>
+                <p>Happy exploring!<br>The Critter & Flora 🌱 BY Nandu</p>
             </body>
             </html>
             """
@@ -321,7 +321,7 @@ With Critter & Flora ID, you can:
 Start exploring the natural world around you!
 
 Happy exploring!
-The Critter & Flora Team(By Lokesh) 🌿
+The Critter & Flora Team(By Nandu) 🌿
 """
         
         return send_email(email, subject, message)
