@@ -28,7 +28,12 @@
         <button type="button" onclick="window.location.href='{{ url_for('index', category='cats') }}'">Cats 🐱</button>
         <button type="button" onclick="window.location.href='{{ url_for('index', category='flowers') }}'">Flowers 🌸</button>
     </div>
-
+    <footer style="text-align: center; color:white; padding: 10px; position: fixed; bottom: 0; width: 100%;">
+        Developed by 
+        <a href="https://github.com/Lokesh071" target="_blank" style="text-decoration: none; color: #fffbfb; text-shadow: white 2px;">
+          <i class="fab fa-github" style="margin-right: 5px;"></i>Lokesh071
+        </a>
+      </footer>
     <script src="{{ url_for('static', filename='js/button.js') }}"></script>
 </body>
 </html>

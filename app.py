@@ -89,7 +89,7 @@ def send_email(to_email, subject, message):
                     .password-box {{
                         background-color: #f0f0f0;
                         border: 2px solid #007bff;
-                        border-radius: 5px;
+                        border-radius: 10px;
                         padding: 15px;
                         margin: 20px 0;
                         font-size: 18px;
@@ -114,7 +114,7 @@ def send_email(to_email, subject, message):
                 
                 <p>Start exploring nature 🔍 with this password and discover the amazing world around you!</p>
                 <p>Don't forget to change your password after logging in.</p>
-                <p>Happy exploring!<br>The Critter & Flora Team 🌱</p>
+                <p>Happy exploring!<br>The Critter & Flora 🌱 BY Lokesh</p>
             </body>
             </html>
             """
@@ -321,7 +321,7 @@ With Critter & Flora ID, you can:
 Start exploring the natural world around you!
 
 Happy exploring!
-The Critter & Flora Team(Batch-20) 🌿
+The Critter & Flora Team(By Lokesh) 🌿
 """
         
         return send_email(email, subject, message)
