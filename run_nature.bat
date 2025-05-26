@@ -9,7 +9,7 @@ if %errorlevel% neq 0 (
 )
 
 echo Setting up database...
-mysql -u root -p"pass11" -P 3307 < setup_database.sql
+mysql -u root -p"sqlpassword" -P portnumber < setup_database.sql
 
 if %errorlevel% neq 0 (
     echo Error setting up database. Please check MySQL connection and credentials.
