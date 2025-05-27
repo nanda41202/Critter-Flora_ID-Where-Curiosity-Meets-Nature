@@ -96,7 +96,22 @@ Critter-and-Flora/
 ├── templates/             # HTML templates
 └── uploads/               # User-uploaded images for processing
 ```
+OUTPUT SCREENS:
+Screenshot 2025-05-05 144117
 
+image
+
+image
+
+image
+
+image
+
+image
+
+image
+
+image
 ## License
 
 This project is licensed under the MIT License.
